@@ -4,6 +4,6 @@ google:
 matomo:
   url: https://nidexie.matomo.cloud/
   domains:
-  - "*.52xxfldh.com"
+  - "*.xxfldh.com"
   site_id: 1
   token: 99ff04c25fa91d58ba0b216ee11f8441
