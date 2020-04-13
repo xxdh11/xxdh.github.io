@@ -95,13 +95,8 @@
   shortcut: 虾米
   style: black
 
-- id: fkdy
-  name: 影视
-  url: http://ifkdy.com/?q=
-  shortcut: 影视
+- id: youku
+  name: 优酷
+  url: https://so.youku.com/search_video/q_
+  shortcut: 优酷
   style: black
-
-- id: panc
-  name: 胖次
-  url: https://www.panc.cc/s/
-  suffix: "/td_0"
