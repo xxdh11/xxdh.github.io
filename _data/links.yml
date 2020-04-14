@@ -1253,7 +1253,7 @@
       style: basic
       url: /guanggao/num-23.html
       
-    - name: ACG绅士游戏
+    - name: ACGCN
       style: basic
       url: /dongman/num-1.html
       
@@ -1261,9 +1261,13 @@
       style: basic
       url: /dongman/num-2.html
       
-    - name: 成人3D游戏
+    - name: illusion中国
       style: basic
       url: /dongman/num-3.html
+
+    - name: H漫画
+      style: basic
+      url: /dongman/num-4.html
       
     - name: 叉叉虎TV
       style: basic
@@ -1276,10 +1280,6 @@
     - name: 邪恶漫画吧
       style: basic
       url: /go/num-x-24.html
-
-    - name: H漫画
-      style: basic
-      url: /dongman/num-4.html
 
     - name: E-Hentai
       style: basic
@@ -1325,7 +1325,7 @@
       style: basic
       url: /go/num-x-35.html
       
-  - category: 欧美无码
+  - category: 国外视频
     links:
     - name: 点我翻墙
       icon: quora blue
@@ -1334,75 +1334,75 @@
       
     - name: CC Forum
       style: basic
-      url: /oumei/num-3.html
+      url: /guowai/num-3.html
       
     - name: Xvideos
       style: basic
-      url: /oumei/num-4.html
+      url: /guowai/num-4.html
       
     - name: Xnxx
       style: basic
-      url: /oumei/num-5.html
+      url: /guowai/num-5.html
       
     - name: PornHub
       style: basic
-      url: /go/num-x-50.html
+      url: /guowai/num-x-20.html
       
     - name: SpankBang
       style: basic
-      url: /go/num-x-52.html
+      url: /guowai/num-x-19.html
       
     - name: TNAFlix
       style: basic
-      url: /go/num-x-53.html
+      url: /guowai/num-x-18.html
       
     - name: keezm
       style: basic
-      url: /go/num-x-54.html
+      url: /guowai/num-x-17.html
       
     - name: PornoMovies
       style: basic
-      url: /go/num-x-55.html
+      url: /guowai/num-x-16.html
       
     - name: AnyPorn
       style: basic
-      url: /go/num-x-56.html
+      url: /guowai/num-x-15.html
 
     - name: SeeMyPorn
       style: basic
-      url: /go/num-x-57.html
+      url: /guowai/num-x-14.html
 
     - name: UPORNO
       style: basic
-      url: /go/num-x-58.html
+      url: /guowai/num-x-13.html
 
     - name: XFreeHD
       style: basic
-      url: /go/num-x-59.html
+      url: /guowai/num-x-12.html
 
     - name: PornTrex
       style: basic
-      url: /go/num-x-60.html
+      url: /guowai/num-x-11.html
 
     - name: PLUSONE8
       style: basic
-      url: /go/num-x-61.html
+      url: /guowai/num-x-10.html
 
     - name: MOVIESHARK
       style: basic
-      url: /go/num-x-63.html
+      url: /guowai/num-x-9.html
       
     - name: Pornmaki
       style: basic
-      url: /go/num-x-65.html
+      url: /guowai/num-x-8.html
 
     - name: xxxkinky
       style: basic
-      url: /go/num-x-66.html
+      url: /guowai/num-x-7.html
 
     - name: Porndroids
       style: basic
-      url: /go/num-x-67.html
+      url: /guowai/num-x-6.html
       
 - section: public
   categories:
