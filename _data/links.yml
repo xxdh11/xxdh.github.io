@@ -1271,15 +1271,7 @@
       
     - name: 叉叉虎TV
       style: basic
-      url: /go/num-x-22.html
-
-    - name: 吉人动漫
-      style: basic
-      url: /go/num-x-23.html
-
-    - name: 邪恶漫画吧
-      style: basic
-      url: /go/num-x-24.html
+      url: /dongman/num-5.html
 
     - name: E-Hentai
       style: basic
