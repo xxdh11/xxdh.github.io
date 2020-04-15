@@ -777,10 +777,6 @@
       style: basic
       url: /daohang/num-112.html
       
-    - name: 粉点福利导航
-      style: basic
-      url: /daohang/num-114.html
-      
     - name: 亚瑟导航
       style: basic
       url: /daohang/num-3.html
@@ -1023,7 +1019,11 @@
       
     - name: 一起色导航
       style: basic
-      url: /daohang/num-62.html      
+      url: /daohang/num-62.html   
+      
+    - name: 粉点福利导航
+      style: basic
+      url: /daohang/num-114.html      
       
     - name: 海贼王导航
       style: basic
