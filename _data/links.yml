@@ -769,10 +769,6 @@
       style: basic
       url: /daohang/num-81.html
       
-    - name: 软妹导航
-      style: basic
-      url: /daohang/num-89.html
-      
     - name: 搜色吧导航
       style: basic
       url: /daohang/num-64.html  
@@ -1027,7 +1023,11 @@
       
     - name: 一起色导航
       style: basic
-      url: /daohang/num-62.html   
+      url: /daohang/num-62.html
+      
+    - name: 软妹导航
+      style: basic
+      url: /daohang/num-89.html
       
     - name: 粉点福利导航
       style: basic
