@@ -896,10 +896,6 @@
     - name: 小明导航
       style: basic
       url: /daohang/num-78.html
-                 
-    - name: 猫AV导航
-      style: basic
-      url: /daohang/num-80.html
       
     - name: 开心导航
       style: basic
@@ -1031,7 +1027,11 @@
       
     - name: 粉点福利导航
       style: basic
-      url: /daohang/num-114.html      
+      url: /daohang/num-114.html
+
+    - name: 猫AV导航
+      style: basic
+      url: /daohang/num-80.html
       
     - name: 海贼王导航
       style: basic
