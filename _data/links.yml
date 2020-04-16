@@ -768,10 +768,6 @@
     - name: 不良导航
       style: basic
       url: /daohang/num-81.html
-      
-    - name: 搜色吧导航
-      style: basic
-      url: /daohang/num-64.html  
 
     - name: AVCN导航
       style: basic
@@ -788,7 +784,7 @@
     - name: 激萌社
       style: basic
       url: /daohang/num-113.html       
-                      
+
     - name: 杏MAP导航
       style: basic
       url: /daohang/num-75.html
@@ -800,6 +796,10 @@
     - name: 无良导航
       style: basic
       url: /daohang/num-11.html
+      
+    - name: 搜色吧导航
+      style: basic
+      url: /daohang/num-64.html  
       
     - name: 抖音导航
       style: basic
