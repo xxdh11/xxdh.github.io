@@ -567,11 +567,7 @@
       
     - name: 色界
       style: basic
-      url: /shipin/num-32.html
-      
-    - name: 看片联盟
-      style: basic
-      url: /shipin/num-33.html        
+      url: /shipin/num-32.html       
       
     - name: 91阿撸巴
       style: basic
@@ -1017,10 +1013,6 @@
       style: basic
       url: /daohang/num-4.html
       
-    - name: 美美福利导航
-      style: basic
-      url: /daohang/num-14.html
-      
     - name: 玖狐狸导航
       style: basic
       url: /daohang/num-73.html
@@ -1029,33 +1021,33 @@
       style: basic
       url: /daohang/num-55.html
       
-    - name: 999导航
-      style: basic
-      url: /daohang/num-36.html
-      
     - name: 一起色导航
       style: basic
       url: /daohang/num-62.html
+      
+    - name: 粉点导航
+      style: basic
+      url: /daohang/num-114.html
       
     - name: 软妹导航
       style: basic
       url: /daohang/num-89.html
       
-    - name: 姐姐色导航
-      style: basic
-      url: /daohang/num-45.html
-      
     - name: 皮卡丘导航
       style: basic
       url: /daohang/num-66.html
-      
-    - name: 粉点导航
-      style: basic
-      url: /daohang/num-114.html
 
     - name: 小蛮腰导航
       style: basic
       url: /daohang/num-80.html
+      
+    - name: 美美福利导航
+      style: basic
+      url: /daohang/num-14.html
+      
+    - name: 姐姐色导航
+      style: basic
+      url: /daohang/num-45.html
       
     - name: 海贼王导航
       style: basic
