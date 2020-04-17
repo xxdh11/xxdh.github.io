@@ -1005,9 +1005,13 @@
       style: basic
       url: /daohang/num-63.html
       
-    - name: 青年涩
+    - name: 青年涩导航
       style: basic
       url: /daohang/num-42.html
+      
+    - name: 芭提雅导航
+      style: basic
+      url: /daohang/num-41.html
       
     - name: 一休导航
       style: basic
