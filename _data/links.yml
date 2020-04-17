@@ -87,6 +87,10 @@
       style: orange
       url: /guanggao/num-15.html
 
+    - name: 精选HD国产
+      style: orange
+      url: /guanggao/num-31.html
+
 
 - section: TWO
   categories:
@@ -243,10 +247,6 @@
     - name: 最新艳照门
       style: teal
       url: /guanggao/num-172.html
-
-    - name: 精选HD国产
-      style: teal
-      url: /guanggao/num-31.html
    
 - section: three
   categories:
