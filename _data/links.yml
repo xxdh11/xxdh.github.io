@@ -87,10 +87,6 @@
       style: orange
       url: /guanggao/num-15.html
 
-    - name: 精选HD国产
-      style: orange
-      url: /guanggao/num-31.html
-
 
 - section: TWO
   categories:
@@ -180,7 +176,11 @@
       
     - name: 呦女萝莉天堂
       style: purple
-      url: /guanggao/num-167.html     
+      url: /guanggao/num-167.html
+
+    - name: 精选HD国产
+      style: purple
+      url: /guanggao/num-31.html
 
   - category: 推荐②区
     links:  
