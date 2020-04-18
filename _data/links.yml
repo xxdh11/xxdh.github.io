@@ -777,6 +777,10 @@
     - name: 唐人社导航
       style: basic
       url: /daohang/num-23.html
+      
+    - name: 679导航
+      style: basic
+      url: /daohang/num-54.html
 
     - name: 不良导航
       style: basic
@@ -1005,10 +1009,6 @@
     - name: 一休导航
       style: basic
       url: /daohang/num-26.html
-      
-    - name: 679导航
-      style: basic
-      url: /daohang/num-54.html
       
     - name: 玖狐狸导航
       style: basic
