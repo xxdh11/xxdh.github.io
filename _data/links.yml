@@ -1042,6 +1042,10 @@
       style: basic
       url: /daohang/num-97.html
       
+    - name: 闽A导航
+      style: basic
+      url: /daohang/num-120.html
+      
     - name: 姐姐色导航
       style: basic
       url: /daohang/num-45.html
@@ -1049,10 +1053,6 @@
     - name: 杏Map导航
       style: basic
       url: /daohang/num-75.html
-      
-    - name: 闽A导航
-      style: basic
-      url: /daohang/num-120.html
       
     - name: 萝莉控必看
       style: basic
