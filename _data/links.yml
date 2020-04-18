@@ -720,7 +720,7 @@
       url: /daohang/num-1.html
 
     - name: 蓝导航
-      icon: pen square blue
+      icon: pencil alternate blue
       style: basic
       url: /daohang/num-39.html
 
@@ -728,7 +728,7 @@
       icon: twitter purple
       style: basic
       url: /daohang/num-44.html
-      
+
     - name: B多多导航
       style: basic
       url: /daohang/num-25.html
