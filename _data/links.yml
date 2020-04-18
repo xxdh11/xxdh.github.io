@@ -817,10 +817,6 @@
       style: basic
       url: /daohang/num-93.html
       
-    - name: 妹控导航
-      style: basic
-      url: /daohang/num-18.html
-      
     - name: 乱世佳人
       style: basic
       url: /daohang/num-124.html     
@@ -884,6 +880,10 @@
     - name: 小表妹导航
       style: basic
       url: /daohang/num-69.html
+      
+    - name: 妹控导航
+      style: basic
+      url: /daohang/num-18.html
       
     - name: 悠悠导航 
       style: basic
