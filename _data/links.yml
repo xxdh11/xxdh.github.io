@@ -720,6 +720,7 @@
       url: /daohang/num-1.html
 
     - name: 蓝导航
+      icon: pen square blue
       style: basic
       url: /daohang/num-39.html
       
@@ -741,6 +742,7 @@
       url: /daohang/num-6.html
 
     - name: 藏姬阁
+      icon: twitter purple
       style: basic
       url: /daohang/num-44.html
 
@@ -1156,7 +1158,7 @@
       url: /xiaoshuo/num-1.html
       
     - name: 藏书阁
-      style: basic
+      style: basic 
       url: /xiaoshuo/num-13.html
       
     - name: 艳文阁
