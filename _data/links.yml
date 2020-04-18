@@ -723,6 +723,11 @@
       icon: pen square blue
       style: basic
       url: /daohang/num-39.html
+
+    - name: 藏姬阁
+      icon: twitter purple
+      style: basic
+      url: /daohang/num-44.html
       
     - name: B多多导航
       style: basic
@@ -740,11 +745,6 @@
       icon: medium m purple
       style: basic
       url: /daohang/num-6.html
-
-    - name: 藏姬阁
-      icon: twitter purple
-      style: basic
-      url: /daohang/num-44.html
 
     - name: 樱桃导航
       style: basic
