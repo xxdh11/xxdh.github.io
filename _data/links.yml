@@ -850,10 +850,6 @@
       style: basic
       url: /daohang/num-99.html
       
-    - name: 闽A导航
-      style: basic
-      url: /daohang/num-120.html
-      
     - name: 国产汽车
       style: basic
       url: /daohang/num-119.html
@@ -1053,6 +1049,10 @@
     - name: 杏Map导航
       style: basic
       url: /daohang/num-75.html
+      
+    - name: 闽A导航
+      style: basic
+      url: /daohang/num-120.html
       
     - name: 萝莉控必看
       style: basic
