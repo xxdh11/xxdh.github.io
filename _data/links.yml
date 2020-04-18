@@ -925,10 +925,6 @@
       style: basic
       url: /daohang/num-109.html
       
-    - name: 性吧导航
-      style: basic
-      url: /daohang/num-48.html
-      
     - name: 性巴克导航
       style: basic
       url: /daohang/num-110.html
@@ -936,7 +932,15 @@
     - name: 3000佳丽
       style: basic
       url: /daohang/num-104.html
-            
+      
+    - name: 性吧导航
+      style: basic
+      url: /daohang/num-48.html  
+      
+    - name: 暗黑萝莉
+      style: basic
+      url: /daohang/num-10.html
+
     - name: 第一福利导航
       style: basic
       url: /daohang/num-90.html
