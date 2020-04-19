@@ -782,6 +782,10 @@
     - name: 银色导航
       style: basic
       url: /daohang/num-35.html
+
+    - name: 芒果导航
+      style: basic
+      url: /daohang/num-29.html
       
     - name: 性巴克导航
       style: basic
