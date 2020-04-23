@@ -870,11 +870,7 @@
       
     - name: 一号网址导航
       style: basic
-      url: /daohang/num-38.html  
-
-    - name: 吸舔导航 
-      style: basic
-      url: /daohang/num-116.html      
+      url: /daohang/num-38.html    
       
     - name: 一起爱导航 
       style: basic
@@ -1140,6 +1136,10 @@
     - name: A8导航
       style: basic
       url: /daohang/num-67.html
+
+    - name: 吸舔导航 
+      style: basic
+      url: /daohang/num-116.html  
 
 - section: THREE
   categories:
