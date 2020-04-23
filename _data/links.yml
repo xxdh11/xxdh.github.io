@@ -1136,6 +1136,10 @@
     - name: 蜜桃导航
       style: basic
       url: /daohang/num-65.html
+      
+    - name: A8导航
+      style: basic
+      url: /daohang/num-67.html
 
 - section: THREE
   categories:
