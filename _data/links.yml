@@ -211,6 +211,10 @@
     - name: 泡芙免费抖音
       style: teal
       url: /guanggao/num-34.html
+
+    - name: 小黄车视频
+      style: teal
+      url: /guanggao/num-2.html
    
 - section: three
   categories:
@@ -1176,6 +1180,10 @@
     - name: 大二导航
       style: basic
       url: /daohang/num-33.html
+
+    - name: 舔批匠导航
+      style: basic
+      url: /daohang/num-34.html
 
 - section: THREE
   categories:
