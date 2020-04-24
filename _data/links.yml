@@ -1156,14 +1156,14 @@
     - name: 北京楼凤网
       style: basic
       url: /luntan/num-10.html
+
+    - name: 六九色堂
+      style: basic
+      url: /luntan/num-11.html
       
     - name: 杏吧有你
       style: basic
       url: /luntan/num-6.html
-
-    - name: 天天看B
-      style: basic
-      url: /luntan/num-11.html
 
     - name: 摩天轮社区
       style: basic
