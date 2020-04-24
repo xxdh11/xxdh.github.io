@@ -1379,6 +1379,10 @@
     - name: H漫画
       style: basic
       url: /dongman/num-4.html
+
+    - name: 52动漫游戏
+      style: basic
+      url: /dongman/num-15.html
       
     - name: 叉叉虎TV
       style: basic
