@@ -532,9 +532,10 @@
       style: basic
       url: /shipin/num-87.html
 
-    - name: 91区
+    - name: 火山小黄人
+      icon: hotjar red
       style: basic
-      url: /shipin/num-18.html
+      url: /shipin/num-90.html
       
     - name: 色界
       style: basic
@@ -747,6 +748,10 @@
     - name: 小萝莉在线
       style: basic
       url: /shipin/num-83.html
+
+    - name: 鸠腰躯
+      style: basic
+      url: /shipin/num-18.html
 
   - category: 凹凸网址导航
     links:
