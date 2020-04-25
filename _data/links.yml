@@ -802,6 +802,10 @@
     - name: 芒果导航
       style: basic
       url: /daohang/num-29.html
+
+    - name: 小黄鸭导航
+      style: basic
+      url: /daohang/num-36.html
       
     - name: 性巴克导航
       style: basic
