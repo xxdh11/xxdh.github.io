@@ -559,10 +559,14 @@
     - name: 男女生视频
       style: basic
       url: /shipin/num-30.html
-            
+
     - name: 微博爸爸
       style: basic
-      url: /shipin/num-138.html 
+      url: /shipin/num-138.html
+
+    - name: 成人妇科
+      style: basic
+      url: /shipin/num-86.html
       
     - name: 无色福利
       style: basic
