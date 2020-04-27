@@ -266,7 +266,7 @@
     - name: pp之家
       icon: food orange
       style: basic
-      url: /guanggao/num-8.html   
+      url: /guanggao/num-8.html
 
     - name: 污萝莉
       icon: wikipedia black
@@ -729,13 +729,17 @@
       style: basic
       url: /shipin/num-18.html
       
-    - name: 幺妹好色
+    - name: 泡泡网
       style: basic
-      url: /shipin/num-42.html
+      url: /shipin/num-94.html
       
     - name: 天天射
       style: basic
       url: /shipin/num-91.html
+      
+    - name: 幺妹好色
+      style: basic
+      url: /shipin/num-42.html
       
     - name: 硬邦邦
       style: basic
