@@ -729,6 +729,10 @@
       style: basic
       url: /shipin/num-18.html
       
+    - name: AV大师
+      style: basic
+      url: /shipin/num-98.html
+      
     - name: 泡泡网
       style: basic
       url: /shipin/num-94.html
@@ -1146,10 +1150,6 @@
     - name: 动感地带
       style: basic
       url: /daohang/num-9.html
-      
-    - name: AV大师
-      style: basic
-      url: /daohang/num-56.html
       
     - name: 保罗导航
       style: basic
