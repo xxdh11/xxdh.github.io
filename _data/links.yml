@@ -872,11 +872,7 @@
       
     - name: 搜色吧
       style: basic
-      url: /daohang/num-64.html  
-      
-    - name: 抖音导航
-      style: basic
-      url: /daohang/num-82.html
+      url: /daohang/num-64.html
       
     - name: 地狱导航
       style: basic
