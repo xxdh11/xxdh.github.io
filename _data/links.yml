@@ -1070,10 +1070,6 @@
       style: basic
       url: /daohang/num-73.html
       
-    - name: 魔爵导航
-      style: basic
-      url: /daohang/num-55.html
-      
     - name: 一起色导航
       style: basic
       url: /daohang/num-62.html
@@ -1214,6 +1210,10 @@
     - name: 宝马导航
       style: basic
       url: /daohang/num-72.html
+      
+    - name: 魔爵导航
+      style: basic
+      url: /daohang/num-55.html
 
 - section: THREE
   categories:
