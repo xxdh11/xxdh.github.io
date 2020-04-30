@@ -1253,35 +1253,35 @@
       
   - category: 激情小说
     links:
-    - name: 九天小说
-      style: basic
-      url: /xiaoshuo/num-14.html 
-    
-    - name: 七色小說
-      style: basic
-      url: /xiaoshuo/num-3.html
-      
     - name: 锁狼书屋
       style: basic
       url: /xiaoshuo/num-7.html
+      
+    - name: 藏书阁
+      style: basic 
+      url: /xiaoshuo/num-13.html
       
     - name: 爱爱书吧
       style: basic
       url: /xiaoshuo/num-6.html
       
+    - name: 大萝卜小说
+      style: basic
+      url: /xiaoshuo/num-11.html
+      
+    - name: 夜色小说
+      style: basic
+      url: /xiaoshuo/num-1.html
+      
     - name: 销魂阁
       style: basic
       url: /xiaoshuo/num-15.html
       
-    - name: 大萝卜小说
+    - name: 桃花岛小说
       style: basic
-      url: https://www.dlbxs.xyz
-      
-    - name: 暧昧小说
-      style: basic
-      url: https://www.99re10.xyz
-      
-    - name: 爸爸读书
+      url: /xiaoshuo/num-14.html
+
+    - name: 八八读书
       style: basic
       url: https://www.qudushu.xyz
       
@@ -1293,18 +1293,6 @@
       style: basic
       url: https://www.dxjxs.site
       
-    - name: 夜色小说
-      style: basic
-      url: /xiaoshuo/num-1.html
-      
-    - name: 藏书阁
-      style: basic 
-      url: /xiaoshuo/num-13.html
-      
-    - name: 艳文阁
-      style: basic
-      url: /xiaoshuo/num-11.html
-      
     - name: 十八万小说
       style: basic
       url: /xiaoshuo/num-2.html
@@ -1313,7 +1301,7 @@
       style: basic
       url: /xiaoshuo/num-8.html
 
-    - name: 色阅阁小说
+    - name: 色阅阁
       style: basic
       url: /xiaoshuo/num-12.html
       
