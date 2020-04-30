@@ -1025,10 +1025,6 @@
     - name: 鬼父导航
       style: basic
       url: /daohang/num-13.html
-      
-    - name: 约啪导航
-      style: basic
-      url: /daohang/num-52.html
 
     - name: 久久导航
       style: basic
@@ -1202,6 +1198,10 @@
     - name: 魔爵导航
       style: basic
       url: /daohang/num-55.html
+      
+    - name: 约啪导航
+      style: basic
+      url: /daohang/num-52.html
 
     - name: 小辣椒导航
       style: basic
