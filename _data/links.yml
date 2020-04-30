@@ -1182,10 +1182,6 @@
     - name: 土豆导航
       style: basic
       url: /daohang/num-70.html
-
-    - name: 小辣椒导航
-      style: basic
-      url: /daohang/num-71.html
       
     - name: 好色导航
       style: basic
@@ -1206,6 +1202,10 @@
     - name: 魔爵导航
       style: basic
       url: /daohang/num-55.html
+
+    - name: 小辣椒导航
+      style: basic
+      url: /daohang/num-71.html
 
 - section: THREE
   categories:
