@@ -69,10 +69,7 @@
     - name: 微信群约炮
       style: orange
       url: /guanggao/num-41.html
-      
-    - name: 草榴成人APP
-      style: orange
-      url: /guanggao/num-49.html
+
 
 - section: TWO
   categories:
@@ -154,7 +151,7 @@
       
     - name: 草榴成人APP
       style: purple
-      url: /guanggao/num-51.html
+      url: /guanggao/num-49.html
       
 
   - category: 推荐②区
