@@ -1314,6 +1314,10 @@
     - name: 销魂阁
       style: basic
       url: /xiaoshuo/num-14.html
+      
+    - name: 歪傳書屋
+      style: basic
+      url: /xiaoshuo/num-2.html
 
     - name: 杏吧小说
       style: basic
