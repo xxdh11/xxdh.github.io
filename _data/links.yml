@@ -2,10 +2,6 @@
   categories:
   - category: TOP
     links:
-    - name: 中文の字幕
-      style: orange
-      url: /guanggao/num-12.html    
-
     - name: 海量高清视频
       style: orange
       url: /guanggao/num-46.html    
@@ -17,10 +13,6 @@
     - name: 茄子视频破解
       style: orange
       url: /guanggao/num-40.html
-      
-    - name: 蜜桃AV
-      style: orange
-      url: /guanggao/num-24.html
       
     - name: 成人快手视频
       style: orange
@@ -1373,11 +1365,7 @@
     links:
     - name: 秒播APP
       style: pink
-      url: /go/go.html
-   
-    - name: 中文の字幕
-      style: basic
-      url: /guanggao/num-12.html     
+      url: /go/go.html   
       
     - name: 免费福利资源
       style: basic
@@ -1429,11 +1417,7 @@
             
     - name: 成人撸片软件
       style: basic
-      url: /guanggao/num-159.html 
-  
-    - name: 蜜桃视频
-      style: basic
-      url: /guanggao/num-24.html
+      url: /guanggao/num-159.html
       
     - name: 豆奶视频
       style: basic
