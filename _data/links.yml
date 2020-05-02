@@ -1313,6 +1313,10 @@
       
   - category: 激情小说
     links:
+    - name: 离夏小说
+      style: basic
+      url: /xiaoshuo/num-9.html
+
     - name: 锁狼书屋
       style: basic
       url: /xiaoshuo/num-7.html
