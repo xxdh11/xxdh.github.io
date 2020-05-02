@@ -1326,9 +1326,10 @@
       
   - category: 宅男神器
     links:
-    - name: 秒播APP
-      style: pink
-      url: /go/go.html   
+    - name: 高清秒播
+      icon: play yellow
+      style: basic
+      url: /go/go.html
       
     - name: 免费福利资源
       style: basic
