@@ -66,12 +66,7 @@
 - section: TWO
   categories:
   - category: 推荐①区
-    links: 
-
-    - name: AV福利姬
-      style: purple
-      url: /guanggao/num-12.html       
-    
+    links:
     - name: 番号鸽
       style: purple
       url: /guanggao/num-39.html         
