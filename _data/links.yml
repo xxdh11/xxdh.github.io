@@ -223,6 +223,14 @@
     - name: ❤️呦女小萝莉❤️
       style: teal
       url: /guanggao/num-35.html
+
+    - name: pp之家
+      style: teal
+      url: /guanggao/num-8.html
+
+    - name: 污萝莉
+      style: teal
+      url: /guanggao/num-9.html
    
 - section: three
   categories:
@@ -280,15 +288,10 @@
   categories:
   - category: 宅男的天堂
     links:
-    - name: pp之家
-      icon: food orange
+    - name: 微杏APP破解版
+      icon: google plus red
       style: basic
-      url: /guanggao/num-8.html
-
-    - name: 污萝莉
-      icon: wikipedia black
-      style: basic
-      url: /guanggao/num-9.html
+      url: /guanggao/num-47.html
       
     - name: 抖阴破解版
       icon: instagram pink
@@ -299,11 +302,6 @@
       icon: film red
       style: basic
       url: /guanggao/num-43.html
-      
-    - name: 微杏APP破解版
-      icon: google plus red
-      style: basic
-      url: /guanggao/num-47.html
 
     - name: 成人帝国
       style: basic
