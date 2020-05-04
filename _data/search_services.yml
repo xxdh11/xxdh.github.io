@@ -1,3 +1,10 @@
+- id: paofu
+  name: 泡芙
+  url: https://ipf003.com/?dc=XXFLDH
+  shortcut: 泡芙
+  icon: product hunt black
+  style: black
+
 - id: baidu
   name: 百度
   url: https://baidu.com/s?wd=
@@ -91,7 +98,8 @@
 
 - id: xiami
   name: 虾米
-  url: http://www.xiami.com/search?key=
+  url: https://www.xiami.com/list?scene=search&type=song&query={%22searchKey%22:%22
+  suffix: "}
   shortcut: 虾米
   style: black
 
