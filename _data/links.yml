@@ -190,6 +190,10 @@
     - name: 成人直播看片
       style: teal
       url: /guanggao/num-8.html
+
+    - name: 呦呦网盘资源
+      style: teal
+      url: /guanggao/num-36.html
    
 - section: three
   categories:
