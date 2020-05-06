@@ -643,11 +643,7 @@
       
     - name: 欲火小妖
       style: basic
-      url: /shipin/num-40.html
-      
-    - name: 聚色堂
-      style: basic
-      url: /shipin/num-121.html        
+      url: /shipin/num-40.html      
     
     - name: 华人91偷拍
       style: basic
@@ -1118,6 +1114,10 @@
     - name: 500福利导航
       style: basic
       url: /daohang/num-8.html
+      
+    - name: 水多多
+      style: basic
+      url: /daohang/num-121.html
       
     - name: 皮卡丘
       icon: reddit alien orange
