@@ -833,6 +833,10 @@
       style: basic
       url: /shipin/num-127.html
 
+    - name: 绝对禁用
+      style: basic
+      url: /shipin/num-129.html
+
 
   - category: 凹凸网址导航
     links:
