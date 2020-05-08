@@ -725,6 +725,10 @@
       style: basic
       url: /shipin/num-100.html
       
+    - name: 玉皇大帝
+      style: basic
+      url: /shipin/num-123.html
+      
     - name: 泡泡网
       style: basic
       url: /shipin/num-94.html
@@ -1299,6 +1303,10 @@
     - name: 艾维导航
       style: basic
       url: /daohang/num-92.html
+      
+    - name: 订阅导航
+      style: basic
+      url: /daohang/num-98.html
       
     - name: 裸T导航
       style: basic
