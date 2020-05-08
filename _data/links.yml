@@ -785,7 +785,7 @@
       style: basic
       url: /shipin/num-110.html
 
-    - name: 少林寺在线
+    - name: 少林寺
       style: basic
       url: /shipin/num-107.html
 
@@ -816,6 +816,10 @@
     - name: 日韩第四页
       style: basic
       url: /shipin/num-116.html
+
+    - name: 玉门关
+      style: basic
+      url: /shipin/num-125.html
 
 
   - category: 凹凸网址导航
