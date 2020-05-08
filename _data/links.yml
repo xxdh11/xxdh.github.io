@@ -1393,26 +1393,30 @@
     - name: 藏书阁
       style: basic 
       url: /xiaoshuo/num-13.html
-      
-    - name: 爱爱书吧
-      style: basic
-      url: /xiaoshuo/num-6.html
 
     - name: 唯美小说
       style: basic
       url: /xiaoshuo/num-10.html
 
+    - name: 肉文吧
+      style: basic
+      url: /xiaoshuo/num-15.html
+
     - name: 色阅阁
       style: basic
       url: /xiaoshuo/num-12.html
       
-    - name: 大萝卜小说
+    - name: 大萝卜
       style: basic
       url: /xiaoshuo/num-11.html
       
     - name: 夜色小说
       style: basic
       url: /xiaoshuo/num-1.html
+      
+    - name: 爱爱书吧
+      style: basic
+      url: /xiaoshuo/num-6.html
       
     - name: 销魂阁
       style: basic
