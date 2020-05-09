@@ -1354,8 +1354,12 @@
 
 - section: THREE
   categories:
-  - category: 论坛博客
+  - category: 社区论坛
     links:
+    - name: 泡芙社区
+      style: basic
+      url: /luntan/num-13.html
+
     - name: 茜茜社区
       style: basic
       url: /luntan/num-1.html
