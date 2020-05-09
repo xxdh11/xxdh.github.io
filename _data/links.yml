@@ -279,6 +279,10 @@
       icon: instagram pink
       style: basic
       url: /guanggao/num-30.html
+      
+    - name: 含羞草研究所
+      style: basic
+      url: /shipin/num-12.html
 
     - name: 成人帝国
       style: basic
@@ -355,10 +359,6 @@
     - name: 色迷迷
       style: basic
       url: /guanggao/num-54.html
-      
-    - name: 国产无广告秒播
-      style: gray
-      url: /go/go.html
       
     - name: 国产高清精品
       style: basic
