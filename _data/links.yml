@@ -372,10 +372,6 @@
       style: basic
       url: /shipin/num-13.html
 
-    - name: 处膜慰道
-      style: basic
-      url: /shipin/num-16.html 
-
     - name: 藝大師
       style: basic
       url: /shipin/num-6.html 
@@ -1102,6 +1098,10 @@
     - name: 78福利导航
       style: basic
       url: /daohang/num-2.html
+
+    - name: 处膜慰道
+      style: basic
+      url: /daohang/num-128.html
       
     - name: 藏天下
       style: basic
