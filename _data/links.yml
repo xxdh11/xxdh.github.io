@@ -637,10 +637,6 @@
       style: basic
       url: /shipin/num-97.html
       
-    - name: 好色八戒
-      style: basic
-      url: /shipin/num-44.html
-      
     - name: 欲火小妖
       style: basic
       url: /shipin/num-40.html      
@@ -844,6 +840,10 @@
     - name: 猛男视频
       style: basic
       url: /shipin/num-130.html
+      
+    - name: 好色八戒
+      style: basic
+      url: /shipin/num-44.html
 
     - name: 色狼国产
       style: basic
