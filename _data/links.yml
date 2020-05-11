@@ -435,10 +435,6 @@
     - name: 桃花岛视频
       style: basic
       url: /shipin/num-21.html  
-
-    - name: 骚鸡
-      style: basic
-      url: /shipin/num-147.html      
       
     - name: HOThub
       style: basic
