@@ -291,14 +291,14 @@
     - name: 含羞草研究所
       style: basic
       url: /shipin/num-12.html
+      
+    - name: 骑虎影库
+      style: basic
+      url: /shipin/num-9.html
 
     - name: 成人帝国
       style: basic
       url: /shipin/num-4.html
-      
-    - name: 骑虎精品影库
-      style: basic
-      url: /shipin/num-9.html
       
     - name: 花社视频
       style: basic
@@ -316,7 +316,7 @@
       style: basic
       url: /shipin/num-17.html
   
-    - name: 金瓶梅视频
+    - name: 金瓶梅
       style: basic
       url: /shipin/num-140.html
       
@@ -335,10 +335,6 @@
     - name: 雅蠛蝶
       style: basic
       url: /shipin/num-141.html
-      
-    - name: 国产高清精品
-      style: basic
-      url: /shipin/num-13.html
 
     - name: 藝大師
       style: basic
