@@ -338,11 +338,7 @@
 
     - name: 藝大師
       style: basic
-      url: /shipin/num-6.html
-
-    - name: MR.PLAYER
-      style: basic
-      url: /shipin/num-8.html       
+      url: /shipin/num-6.html     
       
     - name: 7M视频
       style: basic
@@ -776,6 +772,10 @@
     - name: 色云
       style: basic
       url: /shipin/num-126.html
+
+    - name: MR.PLAYER
+      style: basic
+      url: /shipin/num-8.html
 
     - name: 玉门关
       style: basic
