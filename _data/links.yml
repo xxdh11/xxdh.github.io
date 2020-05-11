@@ -338,11 +338,7 @@
 
     - name: 藝大師
       style: basic
-      url: /shipin/num-6.html 
-
-    - name: KOUBI8影视
-      style: basic
-      url: /shipin/num-7.html 
+      url: /shipin/num-6.html
 
     - name: MR.PLAYER
       style: basic
