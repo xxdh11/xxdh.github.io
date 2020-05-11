@@ -528,10 +528,6 @@
     - name: 狐妖视频
       style: basic
       url: /shipin/num-36.html
-      
-    - name: 暗黑国产王 
-      style: basic
-      url: /shipin/num-148.html
 
     - name: 那种小视频
       style: basic
@@ -736,6 +732,10 @@
     - name: 色云
       style: basic
       url: /shipin/num-126.html
+      
+    - name: 暗黑国产
+      style: basic
+      url: /shipin/num-148.html
 
     - name: MR.PLAYER
       style: basic
