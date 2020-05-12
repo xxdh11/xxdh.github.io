@@ -364,10 +364,6 @@
       style: basic
       url: /shipin/num-146.html
       
-    - name: XO酱
-      style: basic
-      url: /shipin/num-62.html
-      
     - name: 成人世界
       style: basic
       url: /shipin/num-157.html
@@ -532,6 +528,10 @@
     - name: 狐妖视频
       style: basic
       url: /shipin/num-36.html
+      
+    - name: XO酱
+      style: basic
+      url: /shipin/num-62.html
 
     - name: 那种小视频
       style: basic
