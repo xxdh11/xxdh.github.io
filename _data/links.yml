@@ -277,7 +277,7 @@
       url: /guanggao/num-43.html
 
     - name: 微杏成人版
-      icon: google plus red
+      icon: google plus green
       style: basic
       url: /guanggao/num-47.html
       
@@ -291,8 +291,13 @@
       style: basic
       url: /guanggao/num-59.html
       
+    - name: 呦幼乐园
+      icon: uniregistry orange
+      style: basic
+      url: /guanggao/num-66.html
+      
     - name: 抖阴破解版
-      icon: instagram pink
+      icon: gripfire pink
       style: basic
       url: /guanggao/num-30.html
       
