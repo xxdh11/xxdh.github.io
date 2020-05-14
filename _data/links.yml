@@ -101,16 +101,7 @@
     
     - name: 脱裤吧视频
       style: purple
-      url: /guanggao/num-14.html
-      
-    - name: 软萌酱社区
-      style: purple
-      url: /guanggao/num-38.html  
-
-    - name: █iQQ直播█
-      icon: red hand point right
-      style: purple
-      url: /guanggao/num-160.html  
+      url: /guanggao/num-14.html 
 
     - name: 杏吧色情论坛
       style: purple
