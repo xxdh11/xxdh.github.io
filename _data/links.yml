@@ -165,7 +165,7 @@
     links:
     - name: 成人APP大全
       style: teal
-      url: /guanggao/num-28.html 
+      url: /guanggao/num-28.html
       
     - name: 后入十八式
       style: teal
@@ -271,6 +271,11 @@
   categories:
   - category: 宅男的天堂
     links:
+    - name: N号房
+      icon: film red
+      style: basic
+      url: /guanggao/num-43.html
+
     - name: 微杏成人版
       icon: google plus red
       style: basic
@@ -285,11 +290,6 @@
       icon: yahoo yellow
       style: basic
       url: /guanggao/num-59.html
-
-    - name: N号房
-      icon: film red
-      style: basic
-      url: /guanggao/num-43.html
       
     - name: 抖阴破解版
       icon: instagram pink
