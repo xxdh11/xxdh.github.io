@@ -1425,6 +1425,10 @@
     - name: 藏书阁
       style: basic 
       url: /xiaoshuo/num-13.html
+      
+    - name: 壹色网
+      style: basic 
+      url: /xiaoshuo/num-16.html
 
     - name: 唯美小说
       style: basic
