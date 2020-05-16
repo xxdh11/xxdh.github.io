@@ -1359,6 +1359,10 @@
     - name: 98K导航
       style: basic
       url: /daohang/num-132.html
+      
+    - name: 蓝精灵
+      style: basic
+      url: /daohang/num-134.html
 
 - section: THREE
   categories:
