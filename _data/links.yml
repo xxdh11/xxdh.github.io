@@ -529,10 +529,6 @@
       style: basic
       url: /shipin/num-136.html
       
-    - name: 哇嘎看片
-      style: basic
-      url: /shipin/num-34.html
-      
     - name: 左爱精品
       style: basic
       url: /shipin/num-19.html
@@ -828,6 +824,10 @@
     - name: 玩妹
       style: basic
       url: /shipin/num-161.html
+      
+    - name: 哇嘎看片
+      style: basic
+      url: /shipin/num-34.html
       
     - name: 香蕉计划
       style: basic
