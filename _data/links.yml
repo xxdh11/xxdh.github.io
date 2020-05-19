@@ -749,10 +749,6 @@
       style: basic
       url: /shipin/num-6.html
 
-    - name: MR.PLAYER
-      style: basic
-      url: /shipin/num-8.html
-
     - name: 日韩第四页
       style: basic
       url: /shipin/num-116.html
@@ -844,6 +840,10 @@
     - name: 色狼字幕
       style: basic
       url: /shipin/num-133.html
+
+    - name: MR.PLAYER
+      style: basic
+      url: /shipin/num-8.html
 
 
   - category: 凹凸网址导航
