@@ -1235,10 +1235,6 @@
     - name: 姐姐色
       style: basic
       url: /daohang/num-45.html
-      
-    - name: 小女生
-      style: basic
-      url: /daohang/num-22.html
 
     - name: 杏Map导航
       style: basic
@@ -1423,6 +1419,10 @@
     - name: 蓝精灵
       style: basic
       url: /daohang/num-134.html
+      
+    - name: 小女生
+      style: basic
+      url: /daohang/num-22.html
 
 - section: THREE
   categories:
