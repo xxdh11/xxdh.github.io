@@ -102,15 +102,3 @@
   url: https://s.taobao.com/search?q=
   shortcut: 淘宝
   style: black
-
-- id: xiami
-  name: 虾米
-  url: http://www.xiami.com/search?key=
-  shortcut: 虾米
-  style: black
-
-- id: youku
-  name: 优酷
-  url: https://so.youku.com/search_video/q_
-  shortcut: 优酷
-  style: black
