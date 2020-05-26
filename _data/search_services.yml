@@ -5,6 +5,13 @@
   icon: product hunt pink
   style: black
 
+- id: panta
+  name: 盘她
+  url: http://se13.cc/?adref=
+  shortcut: 盘她
+  icon: stripe s blue
+  style: black
+
 - id: baidu
   name: 百度
   url: https://baidu.com/s?wd=
