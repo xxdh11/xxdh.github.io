@@ -1577,6 +1577,10 @@
     - name: 不雅小说
       style: basic
       url: /xiaoshuo/num-2.html
+      
+    - name: 色鬼文学
+      style: basic
+      url: /xiaoshuo/num-18.html
 
     - name: 河图小说
       style: basic
