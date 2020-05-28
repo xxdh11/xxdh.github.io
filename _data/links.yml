@@ -1589,7 +1589,7 @@
       style: basic
       url: /go/go.html
       
-    - name: Lutube
+    - name: LuTuBe
       style: basic
       url: /guanggao/num-45.html
       
@@ -1640,18 +1640,6 @@
     - name: 成人撸片软件
       style: basic
       url: /guanggao/num-159.html
-      
-    - name: 豆奶视频
-      style: basic
-      url: /guanggao/num-29.html
-      
-    - name: Health²
-      style: basic
-      url: /guanggao/num-22.html
-      
-    - name: 豌豆直播
-      style: basic
-      url: /guanggao/num-18.html
       
 
   - category: ACG动漫
