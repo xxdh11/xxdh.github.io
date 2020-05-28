@@ -781,10 +781,6 @@
       style: basic
       url: /shipin/num-116.html
 
-    - name: 玉门关
-      style: basic
-      url: /shipin/num-125.html
-
     - name: 小柠檬
       style: basic
       url: /shipin/num-127.html
@@ -832,10 +828,6 @@
     - name: 名优之家
       style: basic
       url: /shipin/num-40.html
-      
-    - name: 白虎族
-      style: basic
-      url: /shipin/num-147.html
       
     - name: 大精失色
       style: basic
@@ -892,6 +884,14 @@
     - name: 花社
       style: basic
       url: /shipin/num-2.html
+
+    - name: 玉门关
+      style: basic
+      url: /shipin/num-125.html
+      
+    - name: 白虎族
+      style: basic
+      url: /shipin/num-147.html
 
     - name: 人妻偷情
       style: basic
