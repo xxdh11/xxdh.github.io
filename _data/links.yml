@@ -1633,6 +1633,10 @@
       style: basic
       url: /go/go.html
       
+    - name: 泡芙
+      style: basic
+      url: /app/num-2.html
+      
     - name: LuTuBe
       style: basic
       url: /guanggao/num-45.html
