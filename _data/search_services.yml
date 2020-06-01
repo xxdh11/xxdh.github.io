@@ -4,6 +4,13 @@
   shortcut: 泡芙
   icon: product hunt pink
   style: black
+  
+- id: caoliu
+  name: 草榴
+  url: https://clappb.me?ch=xxdh22&remark=
+  shortcut: 草榴
+  icon: cuttlefish purple
+  style: black
 
 - id: baidu
   name: 百度
@@ -32,38 +39,6 @@
   url: https://www.wikipedia.org/wiki/
   shortcut: 维基
   style: black
-
-- id: ieeexplore
-  name: IEEE Xplore
-  url: http://ieeexplore.ieee.org/search/searchresult.jsp?queryText=
-
-- id: baiduxueshu
-  name: 百度学术
-  url: https://xueshu.baidu.com/s?wd=
-
-- id: googlescholar
-  name: 谷歌学术
-  url: https://scholar.google.com/scholar?q=
-
-- id: etymonline
-  name: Etymonline
-  url: https://www.etymonline.com/index.php?search=
-
-- id: mw
-  name: Merriam-Webster
-  url: https://www.merriam-webster.com/dictionary/
-
-- id: github
-  name: GitHub
-  url: https://github.com/search?q=
-
-- id: wechat
-  name: 微信公众号
-  url: http://weixin.sogou.com/weixin?query=
-
-- id: minapp
-  name: 微信小程序
-  url: https://minapp.com/miniapp/search/?query=
 
 - id: weibo
   name: 微博
