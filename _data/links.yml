@@ -131,10 +131,6 @@
       style: purple
       url: /guanggao/num-11.html
       
-    - name: 草榴短视频
-      style: purple
-      url: /guanggao/num-49.html
-      
     - name: 成人抖阴社区
       style: purple
       url: /guanggao/num-62.html
@@ -1644,6 +1640,10 @@
     - name: 泡芙
       style: basic
       url: /app/num-2.html
+      
+    - name: 草榴
+      style: basic
+      url: /app/num-3.html
       
     - name: LuTuBe
       style: basic
