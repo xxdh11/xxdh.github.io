@@ -1701,6 +1701,10 @@
       style: basic
       url: /app/num-3.html
       
+    - name: 芒果
+      style: basic
+      url: /app/num-4.html
+      
     - name: LuTuBe
       style: basic
       url: /guanggao/num-45.html
@@ -1719,11 +1723,7 @@
       
     - name: 第一坊
       style: basic
-      url: /guanggao/num-25.html
-      
-    - name: 芒果视频
-      style: basic
-      url: /guanggao/num-1.html     
+      url: /guanggao/num-25.html  
 
     - name: 妲己吧
       style: basic
@@ -1739,7 +1739,7 @@
       
     - name: 来撩
       style: basic
-      url: /app/num-4.html
+      url: /app/num-5.html
       
 
   - category: ACG动漫
