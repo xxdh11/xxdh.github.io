@@ -335,7 +335,12 @@
       style: basic
       url: /guanggao/num-30.html
       
-    - name: 含羞草
+    - name: 萝莉直播秀
+      icon: uniregistry orange
+      style: basic
+      url: /guanggao/num-49.html
+      
+    - name: 麻豆映画
       style: basic
       url: /shipin/num-12.html
       
