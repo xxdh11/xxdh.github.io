@@ -1,15 +1,15 @@
-- id: paofu
-  name: 泡芙
-  url: https://ipf003.com/?dc=XXFLDH&remark=
-  shortcut: 泡芙
-  icon: product hunt pink
-  style: black
-  
 - id: caoliu
   name: 草榴
   url: https://clappb.me?ch=xxdh22&remark=
   shortcut: 草榴
   icon: cuttlefish purple
+  style: black
+
+- id: paofu
+  name: 泡芙
+  url: https://ipf003.com/?dc=XXFLDH&remark=
+  shortcut: 泡芙
+  icon: product hunt pink
   style: black
 
 - id: baidu
