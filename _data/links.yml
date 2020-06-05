@@ -1624,6 +1624,10 @@
     - name: 色阅阁
       style: basic
       url: /xiaoshuo/num-12.html
+
+    - name: 肉文小说
+      style: basic
+      url: /xiaoshuo/num-22.html
       
     - name: 大萝卜
       style: basic
