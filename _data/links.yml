@@ -1729,6 +1729,10 @@
       style: basic
       url: /app/num-4.html
       
+    - name: 草酷
+      style: basic
+      url: /app/num-5.html
+      
     - name: LuTuBe
       style: basic
       url: /guanggao/num-45.html
