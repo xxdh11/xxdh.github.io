@@ -996,6 +996,10 @@
     - name: 东京好热
       style: basic
       url: /shipin/num-5.html
+      
+    - name: 7色谷
+      style: basic
+      url: /shipin/num-138.html
 
     - name: MR.PLAYER
       style: basic
