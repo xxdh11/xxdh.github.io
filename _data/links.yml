@@ -996,30 +996,30 @@
     - name: 女神的诱惑
       style: basic
       url: /shipin/num-133.html
-
-    - name: 看妹秀
+      
+    - name: 天上人间
       style: basic
-      url: /shipin/num-132.html
+      url: /shipin/num-189.html
 
     - name: 开心果
       style: basic
       url: /shipin/num-190.html
       
-    - name: BOSS视频
-      style: basic
-      url: /shipin/num-189.html
-      
     - name: 东京好热
       style: basic
       url: /shipin/num-5.html
+
+    - name: MR.PLAYER
+      style: basic
+      url: /shipin/num-8.html
       
     - name: 7色谷
       style: basic
       url: /shipin/num-138.html
 
-    - name: MR.PLAYER
+    - name: 看妹秀
       style: basic
-      url: /shipin/num-8.html
+      url: /shipin/num-132.html
 
     - name: 色房
       style: basic
