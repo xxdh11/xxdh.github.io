@@ -1004,6 +1004,10 @@
     - name: 快狐小电影
       style: basic
       url: /shipin/num-193.html
+      
+    - name: 大黄蜂
+      style: basic
+      url: /shipin/num-194.html
 
     - name: 开心果
       style: basic
