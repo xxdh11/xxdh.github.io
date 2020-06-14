@@ -736,10 +736,6 @@
       style: basic
       url: /shipin/num-106.html
       
-    - name: 小鸟自拍
-      style: basic
-      url: /shipin/num-103.html
-      
     - name: 吾本色
       style: basic
       url: /shipin/num-104.html
@@ -1024,6 +1020,10 @@
     - name: 大黄蜂
       style: basic
       url: /shipin/num-194.html
+      
+    - name: 小鸟自拍
+      style: basic
+      url: /shipin/num-103.html
       
     - name: 7色谷
       style: basic
