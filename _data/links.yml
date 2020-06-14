@@ -1000,6 +1000,10 @@
     - name: 天上人间
       style: basic
       url: /shipin/num-189.html
+      
+    - name: 快狐小电影
+      style: basic
+      url: /shipin/num-193.html
 
     - name: 开心果
       style: basic
