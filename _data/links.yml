@@ -1005,9 +1005,9 @@
       style: basic
       url: /shipin/num-193.html
       
-    - name: 大黄蜂
+    - name: 乖乖兔
       style: basic
-      url: /shipin/num-194.html
+      url: /shipin/num-195.html
 
     - name: 开心果
       style: basic
@@ -1020,6 +1020,10 @@
     - name: MR.PLAYER
       style: basic
       url: /shipin/num-8.html
+      
+    - name: 大黄蜂
+      style: basic
+      url: /shipin/num-194.html
       
     - name: 7色谷
       style: basic
