@@ -1781,6 +1781,10 @@
       style: basic
       url: /go/go.html
       
+    - name: BT目录
+      style: basic
+      url: /app/num-1.html
+      
     - name: 泡芙
       style: basic
       url: /app/num-2.html
