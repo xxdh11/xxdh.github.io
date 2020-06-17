@@ -1062,10 +1062,6 @@
       icon: twitter purple
       style: basic
       url: /daohang/num-44.html
-
-    - name: B多多
-      style: basic
-      url: /daohang/num-25.html
       
     - name: 秘密入口
       style: basic
@@ -1611,6 +1607,10 @@
     - name: 蓝精灵
       style: basic
       url: /daohang/num-134.html
+
+    - name: B多多
+      style: basic
+      url: /daohang/num-25.html
       
     - name: 小女生
       style: basic
