@@ -472,10 +472,6 @@
       style: basic
       url: /shipin/num-16.html
   
-    - name: 丝袜Cos社
-      style: basic
-      url: /shipin/num-119.html
-  
     - name: 七情六欲
       style: basic
       url: /shipin/num-31.html
@@ -1639,18 +1635,6 @@
     - name: 茜茜社区
       style: basic
       url: /luntan/num-1.html
-
-    - name: 色猫咪社区
-      style: basic
-      url: /luntan/num-12.html
-
-    - name: 恋臀者
-      style: basic
-      url: /luntan/num-7.html
-      
-    - name: 第一精品社区
-      style: basic
-      url: /luntan/num-16.html
       
     - name: 京妃殿
       style: basic
@@ -1659,12 +1643,16 @@
     - name: 六九色堂
       style: basic
       url: /luntan/num-11.html
+
+    - name: 恋臀者
+      style: basic
+      url: /luntan/num-7.html
       
     - name: 杏吧有你
       style: basic
       url: /luntan/num-6.html
       
-    - name: 哟哟社区
+    - name: 悠悠社区
       style: basic
       url: /luntan/num-15.html
       
