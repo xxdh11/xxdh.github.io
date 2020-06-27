@@ -1781,6 +1781,14 @@
       style: basic
       url: /app/num-1.html
       
+    - name: 硬汉
+      style: basic
+      url: /app/num-6.html
+      
+    - name: 五月天
+      style: basic
+      url: /app/num-7.html
+      
     - name: 泡芙
       style: basic
       url: /app/num-2.html
@@ -1788,11 +1796,7 @@
     - name: 草榴
       style: basic
       url: /app/num-3.html
-      
-    - name: 硬汉
-      style: basic
-      url: /app/num-6.html
-      
+
     - name: 芒果
       style: basic
       url: /app/num-4.html
