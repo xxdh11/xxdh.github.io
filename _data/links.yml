@@ -175,7 +175,7 @@
       style: purple
       url: /guanggao/num-87.html
       
-    - name: 全国约炮性息
+    - name: 全国凤楼信息
       style: purple
       url: /guanggao/num-90.html
 
@@ -1655,6 +1655,10 @@
     - name: 51风流
       style: basic
       url: /luntan/num-14.html
+      
+    - name: 寻欢阁
+      style: basic
+      url: /luntan/num-16.html
 
     - name: 摩天轮社区
       style: basic
