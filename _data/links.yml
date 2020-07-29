@@ -20,11 +20,7 @@
       
     - name: 抖音网红下海
       style: orange
-      url: /guanggao/num-25.html
-      
-    - name: 芒果国产自拍
-      style: orange
-      url: /guanggao/num-1.html     
+      url: /guanggao/num-25.html   
       
     - name: 18+福利天堂
       style: orange
@@ -378,6 +374,11 @@
       icon: maxcdn red
       style: basic
       url: /guanggao/num-59.html
+      
+    - name: 限时偷情人妻
+      icon: gitkraken basic
+      style: basic
+      url: /guanggao/num-1.html
       
     - name: 麻豆映画
       style: basic
