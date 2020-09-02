@@ -795,10 +795,6 @@
     - name: LP99
       style: basic
       url: /shipin/num-167.html
-      
-    - name: 淘JJ
-      style: basic
-      url: /shipin/num-173.html
 
     - name: 58AV
       style: basic
@@ -1024,6 +1020,10 @@
     - name: 百丽宫
       style: basic
       url: /shipin/num-58.html
+      
+    - name: 淘JJ
+      style: basic
+      url: /shipin/num-173.html
       
     - name: 男人本色
       style: basic
