@@ -1623,6 +1623,10 @@
     - name: 很色导航
       style: basic
       url: /daohang/num-106.html
+      
+    - name: 粉红色
+      style: basic
+      url: /daohang/num-15.html
 
 - section: THREE
   categories:
