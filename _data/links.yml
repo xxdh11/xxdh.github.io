@@ -1422,9 +1422,7 @@
       style: basic
       url: /daohang/num-79.html
 
-    - name: 不良研究所
-      style: basic
-      url: /daohang/num-130.html
+
 
     - name: 寡妇村
       style: basic
@@ -1755,6 +1753,11 @@
     - name: 芒果
       style: basic
       url: /app/num-4.html
+      
+    - name: 不良研究所
+      style: basic
+      url: /daohang/num-130.html 
+      
       
     - name: LuTuBe
       style: basic
