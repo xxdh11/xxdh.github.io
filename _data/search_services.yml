@@ -35,28 +35,22 @@
   icon: map green inverted
   style: black
 
-- id: bing
-  name: 必应
-  url: https://cn.bing.com/search?q=
-  shortcut: 必应
+- id: weibo
+  name: 微博
+  url: https://s.weibo.com/weibo/
+  shortcut: 微博
+  style: black
+  
+- id: zhihu
+  name: 知乎
+  url: https://www.zhihu.com/search?q=
+  shortcut: 知乎
   style: black
 
 - id: wikipedia
   name: 维基百科
   url: https://www.wikipedia.org/wiki/
   shortcut: 维基
-  style: black
-
-- id: weibo
-  name: 微博
-  url: https://s.weibo.com/weibo/
-  shortcut: 微博
-  style: black
-
-- id: zhihu
-  name: 知乎
-  url: https://www.zhihu.com/search?q=
-  shortcut: 知乎
   style: black
 
 - id: douban
