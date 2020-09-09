@@ -594,9 +594,7 @@
       style: basic
       url: /shipin/num-40.html
       
-    - name: 大精失色
-      style: basic
-      url: /shipin/num-75.html
+
       
     - name: 每日影视
       style: basic
@@ -638,9 +636,7 @@
       style: basic
       url: /shipin/num-178.html
       
-    - name: 藏妻阁
-      style: basic
-      url: /shipin/num-180.html
+
       
     - name: 大香蕉
       style: basic
@@ -899,6 +895,16 @@
     - name: 红楼春梦
       style: basic
       url: /shipin/num-106.html 
+      
+    - name: 大精失色
+      style: basic
+      url: /shipin/num-75.html
+      
+    - name: 藏妻阁
+      style: basic
+      url: /shipin/num-180.html
+      
+      
       
     - name: 木头人
       style: basic
