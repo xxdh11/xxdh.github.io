@@ -671,39 +671,25 @@
       url: /shipin/num-133.html
       
 
-      
-    - name: 快狐小电影
-      style: basic
-      url: /shipin/num-193.html
+
       
     - name: 乖乖兔
       style: basic
       url: /shipin/num-195.html
       
-    - name: 色戒视频
-      style: basic
-      url: /shipin/num-196.html
+
 
     - name: 开心果
       style: basic
       url: /shipin/num-190.html
       
-    - name: 东京好热
-      style: basic
-      url: /shipin/num-5.html
 
-    - name: MR.PLAYER
-      style: basic
-      url: /shipin/num-8.html
       
     - name: 大黄蜂
       style: basic
       url: /shipin/num-194.html
       
 
-    - name: 7色谷
-      style: basic
-      url: /shipin/num-138.html
 
     - name: 看妹秀
       style: basic
@@ -712,10 +698,7 @@
     - name: 色房
       style: basic
       url: /shipin/num-191.html
-    
-    - name: 蔚来影院
-      style: basic
-      url: /shipin/num-71.html
+
       
     - name: 久爱
       style: basic
@@ -724,10 +707,6 @@
     - name: 泡茶视频
       style: basic
       url: /shipin/num-38.html
-      
-    - name: 百丽宫
-      style: basic
-      url: /shipin/num-58.html
 
     - name: NAIKILI
       style: basic
@@ -740,11 +719,7 @@
     - name: BB网
       style: basic
       url: /shipin/num-199.html
-      
-    - name: 杰克撸
-      style: basic
-      url: /shipin/num-50.html
-      
+
     - name: 三人行
       style: basic
       url: /shipin/num-119.html
@@ -823,10 +798,6 @@
     - name: 17LU
       style: basic
       url: /shipin/num-111.html
-      
-      
-      
-      
       
       
     - name: 花花世界
@@ -914,7 +885,10 @@
     - name: 孤独狼
       style: basic
       url: /shipin/num-43.html
-      
+       
+    - name: 快狐小电影
+      style: basic
+      url: /shipin/num-193.html
       
       
 
