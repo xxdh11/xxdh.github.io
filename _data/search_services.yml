@@ -20,10 +20,10 @@
   style: black
 
 - id: wanku
-  name: 番号网
+  name: 番号视频
   url: https://www.fhcxw.com/?s=
-  shortcut: 番号网
-  icon: product hunt pink
+  shortcut: 番号视频
+  icon: play yellow
   style: black
 
 - id: paofu
