@@ -178,6 +178,12 @@
     - name: N号房
       style: purple
       url: /guanggao/num-30.html
+      
+    - name: 今日更新
+      style: purple
+      url: /guanggao/num-180.html
+      
+      
 
     - name: 萝莉呦女资源
       style: purple
