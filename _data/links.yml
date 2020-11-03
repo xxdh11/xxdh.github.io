@@ -1540,17 +1540,7 @@
     - name: 杏吧小说
       style: basic
       url: /xiaoshuo/num-25.html
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+
       
   - category: 宅男神器
     links:
@@ -1562,13 +1552,7 @@
     - name: BT目录
       style: basic
       url: /app/num-1.html
-      
-    - name: 硬汉
-      style: basic
-      url: /app/num-6.html
-      
 
-      
     - name: 泡芙
       style: basic
       url: /app/num-2.html
@@ -1576,11 +1560,10 @@
     - name: 草榴
       style: basic
       url: /app/num-3.html
-
-
       
-
-      
+    - name: R站
+      style: basic
+      url: /app/num-6.html
       
     - name: LuTuBe
       style: basic
