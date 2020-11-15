@@ -439,13 +439,7 @@
       style: basic
       url: /shipin/num-3.html
 
-    - name: 色陛下
-      style: basic
-      url: /shipin/num-92.html
 
-    - name: 成人帝国
-      style: basic
-      url: /shipin/num-4.html
 
     - name: 5樓自拍
       style: basic
@@ -896,6 +890,13 @@
       style: basic
       url: /shipin/num-6.html 
       
+    - name: 色陛下
+      style: basic
+      url: /shipin/num-92.html
+
+    - name: 成人帝国
+      style: basic
+      url: /shipin/num-4.html
       
       
 
@@ -1366,11 +1367,12 @@
       
     - name: 新大陆
       style: basic
-      url: /shipin/num-211.html
+      url: /daohang/num-156.html
+      
       
     - name: 成人色
       style: basic
-      url: /shipin/num-10.html
+      url: /daohang/num-10.html
       
       
       
