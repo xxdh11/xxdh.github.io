@@ -16,14 +16,21 @@
   name: 夏色视频
   url: https://xiaseav.com/?dc=XXFLDH&remark=
   shortcut: 夏色视频
-  icon: product hunt orange
+  icon: stripe s orange
   style: black
 
 - id: omo
   name: OMO精选视频
   url: https://ad.shareomo.com/ad.php?ref_id=10740&remark=
   shortcut: OMO精选视频
-  icon: product hunt yellow
+  icon: medium m yellow
+  style: black
+
+- id: paofu
+  name: 萝莉呦女APP
+  url: http://llku.xyz/?dc=XXFLDH&remark=
+  shortcut: 萝莉呦女APP
+  icon: hotjar teal
   style: black
 
 - id: paofu
