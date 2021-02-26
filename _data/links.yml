@@ -1113,18 +1113,10 @@
     - name: 冷君导航
       style: basic
       url: /daohang/num-147.html
-
-    - name: 脱裤撸
-      style: basic
-      url: /daohang/num-148.html
       
     - name: 9ATK导航
       style: basic
       url: /daohang/num-149.html
-      
-    - name: 很色导航
-      style: basic
-      url: /daohang/num-106.html
       
     - name: 粉红色
       style: basic
@@ -1137,10 +1129,6 @@
     - name: 情涩导航
       style: basic
       url: /daohang/num-2.html
-      
-    - name: 秘密通道
-      style: basic
-      url: /daohang/num-152.html
       
     - name: 纸箱导航
       style: basic
@@ -1158,10 +1146,6 @@
       style: basic
       url: /daohang/num-8.html
       
-    - name: 艾薇导航
-      style: basic
-      url: /daohang/num-4.html 
-      
     - name: 冰点导航
       style: basic
       url: /daohang/num-9.html 
@@ -1170,36 +1154,14 @@
       style: basic
       url: /daohang/num-154.html
       
-    - name: 叼无禁忌
-      style: basic
-      url: /daohang/num-155.html
-      
-    - name: 新大陆
-      style: basic
-      url: /daohang/num-156.html
-      
     - name: 成人色
       style: basic
       url: /daohang/num-10.html
-      
-    - name: 称霸B界
-      style: basic
-      url: /daohang/num-157.html
-      
-      
-    - name: 独领风骚
-      style: basic
-      url: /daohang/num-158.html
 
     - name: 1020导航
       style: basic
       url: /daohang/num-159.html
       
-
-      
-
-
-
 - section: THREE
   categories:
   - category: 社区论坛
