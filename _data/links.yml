@@ -1585,11 +1585,7 @@
       url: https://www.mi.com/
 
   - category: 工具
-    links:
-    - name: Telegram群组大全
-      style: basic
-      url: https://www.dianbaoqun.net
-    
+    links:    
     - name: 百度一下
       icon: paw blue
       style: basic
