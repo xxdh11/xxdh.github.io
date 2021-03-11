@@ -792,19 +792,15 @@
       style: basic
       url: /daohang/num-1.html
 
-    - name: 藏姬阁
+    - name: 秘密入口
       icon: twitter purple
       style: basic
-      url: /daohang/num-44.html
+      url: /daohang/num-112.html
 
     - name: 小黄鸭
       icon: hire a helper yellow
       style: basic
       url: /daohang/num-36.html
-      
-    - name: 秘密入口
-      style: basic
-      url: /daohang/num-112.html
 
     - name: 无良导航
       style: basic
