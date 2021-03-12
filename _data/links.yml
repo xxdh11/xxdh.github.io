@@ -189,6 +189,10 @@
     - name: 全国小姐资源
       style: purple
       url: /guanggao/num-97.html
+      
+    - name: 网红萝莉呦女
+      style: purple
+      url: /guanggao/num-100.html
 
     - name: 泡芙破解版
       style: purple
@@ -300,10 +304,6 @@
     - name: 稀缺呦女萝莉
       style: teal
       url: /guanggao/num-72.html
-      
-    - name: 网红萝莉呦女
-      style: teal
-      url: /guanggao/num-100.html
       
     - name: 泡芙免费抖音
       style: teal
