@@ -1421,14 +1421,18 @@
     - name: 骚洞漫画
       style: basic
       url: /dongman/num-18.html
+
+    - name: 邪恶漫画
+      style: basic
+      url: /dongman/num-9.html
+
+    - name: 蜜汁宅男
+      style: basic
+      url: /dongman/num-19.html
       
     - name: 叉叉虎TV
       style: basic
       url: /dongman/num-5.html
-
-    - name: E-Hentai
-      style: basic
-      url: /dongman/num-6.html
 
     - name: 宅宅愛動漫
       style: basic
@@ -1438,9 +1442,13 @@
       style: basic
       url: /dongman/num-8.html
 
-    - name: 松鼠症倉庫
+    - name: 和邪社
       style: basic
-      url: /dongman/num-9.html
+      url: /dongman/num-14.html
+
+    - name: E-Hentai
+      style: basic
+      url: /dongman/num-6.html
 
     - name: Hentai Stream
       style: basic
@@ -1457,10 +1465,6 @@
     - name: AsmHentai
       style: basic
       url: /dongman/num-13.html
-
-    - name: 和邪社
-      style: basic
-      url: /dongman/num-14.html
       
   - category: 国外视频
     links:
