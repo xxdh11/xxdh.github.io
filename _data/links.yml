@@ -514,11 +514,6 @@
       style: basic
       url: /shipin/num-167.html
 
-    - name: 火山小黄人
-      icon: hotjar red
-      style: basic
-      url: /shipin/num-90.html
-
     - name: 名优之家
       style: basic
       url: /shipin/num-40.html
@@ -638,6 +633,11 @@
     - name: 云盘破解
       style: basic
       url: /shipin/num-20.html
+
+    - name: 火山小黄人
+      icon: hotjar red
+      style: basic
+      url: /shipin/num-90.html
 
     - name: 私家仓库
       style: basic
