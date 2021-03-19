@@ -864,7 +864,7 @@
       
     - name: B多多
       style: basic
-      url: /daohang/num-150.html
+      url: /daohang/num-6.html
 
     - name: 樱桃导航
       style: basic
@@ -890,6 +890,10 @@
     - name: 丫丫导航
       style: basic
       url: /daohang/num-24.html
+      
+    - name: 多多导航
+      style: basic
+      url: /daohang/num-13.html
       
     - name: 皮皮虾
       icon: product hunt pink
