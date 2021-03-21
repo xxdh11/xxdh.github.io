@@ -912,6 +912,14 @@
       icon: gitkraken teal
       style: basic
       url: /daohang/num-23.html
+      
+    - name: 水多多
+      style: basic
+      url: /daohang/num-118.html
+      
+    - name: 两性百科
+      style: basic
+      url: /daohang/num-8.html
 
     - name: 红灯区
       style: basic
@@ -992,10 +1000,6 @@
     - name: 玖狐狸
       style: basic
       url: /daohang/num-73.html
-      
-    - name: 水多多
-      style: basic
-      url: /daohang/num-118.html
       
     - name: 小仙女
       style: basic
@@ -1133,10 +1137,6 @@
     - name: 宝马导航
       style: basic
       url: /daohang/num-72.html
-      
-    - name: 两性百科
-      style: basic
-      url: /daohang/num-8.html
       
     - name: 冰点导航
       style: basic
