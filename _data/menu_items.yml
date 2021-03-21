@@ -8,6 +8,11 @@
   url: /pages/
   active_key: analytics
 
+- name: APP下载
+  icon: arrow circle down
+  url: https://www.xfb91.com
+  active_key: home
+
 - name: 收录&合作
   icon: qrcode
   url: /donate/
