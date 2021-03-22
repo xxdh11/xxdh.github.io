@@ -625,11 +625,7 @@
       
     - name: 兰桂坊
       style: basic
-      url: /shipin/num-207.html  
-      
-    - name: 唐人福利
-      style: basic
-      url: /shipin/num-208.html
+      url: /shipin/num-207.html
       
     - name: 国产久久
       style: basic
