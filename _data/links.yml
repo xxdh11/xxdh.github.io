@@ -481,14 +481,6 @@
     - name: LP99
       style: basic
       url: /shipin/num-167.html
-
-    - name: 名优之家
-      style: basic
-      url: /shipin/num-40.html
-      
-    - name: 每日影视
-      style: basic
-      url: /shipin/num-77.html
       
     - name: 玩妹
       style: basic
