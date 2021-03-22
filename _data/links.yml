@@ -474,10 +474,6 @@
       style: basic
       url: /shipin/num-100.html
       
-    - name: 成人妇科
-      style: basic
-      url: /shipin/num-128.html
-      
     - name: 凹凸Bus
       style: basic
       url: /shipin/num-42.html
@@ -810,6 +806,10 @@
     - name: 洋马视频
       style: basic
       url: /shipin/num-91.html
+      
+    - name: 成人妇科
+      style: basic
+      url: /shipin/num-128.html
 
 
   - category: 凹凸网址导航
