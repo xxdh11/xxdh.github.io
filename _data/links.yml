@@ -601,11 +601,7 @@
       
     - name: 成人世界
       style: basic
-      url: /shipin/num-205.html 
-      
-    - name: A级XXO
-      style: basic
-      url: /shipin/num-206.html  
+      url: /shipin/num-205.html
       
     - name: 兰桂坊
       style: basic
