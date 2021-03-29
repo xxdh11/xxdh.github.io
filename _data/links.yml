@@ -830,10 +830,6 @@
       style: basic
       url: /daohang/num-64.html
       
-    - name: 地狱导航
-      style: basic
-      url: /daohang/num-126.html
-      
     - name: 窈窕淑女
       style: basic
       url: /daohang/num-93.html
@@ -1051,6 +1047,10 @@
       style: basic
       url: /daohang/num-11.html
       
+    - name: 地狱导航
+      style: basic
+      url: /daohang/num-19.html
+
     - name: 小刀导航
       style: basic
       url: /daohang/num-14.html
