@@ -905,10 +905,6 @@
     - name: 微色导航
       style: basic
       url: /daohang/num-97.html
-      
-    - name: 中外导航
-      style: basic
-      url: /daohang/num-27.html
 
     - name: 杏Map导航
       style: basic
@@ -1049,6 +1045,10 @@
     - name: 小刀导航
       style: basic
       url: /daohang/num-14.html
+      
+    - name: 中外导航
+      style: basic
+      url: /daohang/num-27.html
       
 - section: THREE
   categories:
