@@ -1124,7 +1124,7 @@
     - name: 锁狼书屋
       style: basic
       url: /xiaoshuo/num-7.html
-      
+
     - name: 藏书阁
       style: basic 
       url: /xiaoshuo/num-13.html
@@ -1208,6 +1208,10 @@
     - name: 肉肉阅读
       style: basic
       url: /xiaoshuo/num-3.html
+
+    - name: 不雅读书
+      style: basic
+      url: /xiaoshuo/num-26.html
 
     - name: 草榴小说
       style: basic
