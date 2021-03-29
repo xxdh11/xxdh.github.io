@@ -710,7 +710,10 @@
     - name: 左爱视频
       style: basic
       url: /shipin/num-49.html
-
+      
+    - name: 雅蠛蝶
+      style: basic
+      url: /shipin/num-50.html
 
   - category: 凹凸网址导航
     links:
