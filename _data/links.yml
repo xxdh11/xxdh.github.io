@@ -525,10 +525,6 @@
     - name: 淘JJ
       style: basic
       url: /shipin/num-173.html
-      
-    - name: BB网
-      style: basic
-      url: /shipin/num-199.html
 
     - name: 三人行
       style: basic
@@ -573,6 +569,10 @@
     - name: 云盘破解
       style: basic
       url: /shipin/num-20.html
+      
+    - name: BB网
+      style: basic
+      url: /shipin/num-62.html
 
     - name: 火山小黄人
       icon: hotjar red
