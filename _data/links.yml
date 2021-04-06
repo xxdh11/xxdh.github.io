@@ -686,7 +686,7 @@
     - name: 虎牙视频
       style: basic
       url: /shipin/num-57.html
-      
+
     - name: 搜B片场
       style: basic
       url: /shipin/num-31.html
@@ -694,6 +694,10 @@
     - name: 小妖精 
       style: basic
       url: /shipin/num-65.html
+      
+    - name: 人兽资源 
+      style: basic
+      url: /shipin/num-69.html
 
     - name: 哇嘎看片
       style: basic
