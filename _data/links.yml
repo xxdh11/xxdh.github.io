@@ -350,6 +350,10 @@
       style: basic
       url: /shipin/num-12.html
 
+    - name: ACG韩漫
+      style: basic
+      url: /guanggao/num-20.html
+
     - name: Dopa视频
       style: basic
       url: /shipin/num-32.html
