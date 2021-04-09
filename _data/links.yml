@@ -738,10 +738,10 @@
       style: basic
       url: /daohang/num-36.html
 
-    - name: 藏姬阁
+    - name: 色鬼导航
       icon: twitter purple
       style: basic
-      url: /daohang/num-17.html
+      url: /daohang/num-37.html
       
     - name: 不良研究所
       style: basic
@@ -1070,6 +1070,10 @@
     - name: 福利姬
       style: basic
       url: /daohang/num-34.html
+
+    - name: 藏姬阁
+      style: basic
+      url: /daohang/num-17.html
       
 - section: THREE
   categories:
