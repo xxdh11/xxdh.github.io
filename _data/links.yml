@@ -430,10 +430,6 @@
       style: basic
       url: /shipin/num-172.html
       
-    - name: 香蕉计划
-      style: basic
-      url: /shipin/num-79.html
-      
     - name: 美色部落
       style: basic
       url: /shipin/num-175.html
@@ -714,6 +710,10 @@
     - name: 深夜保健室
       style: basic
       url: /shipin/num-1.html
+      
+    - name: 香蕉计划
+      style: basic
+      url: /shipin/num-79.html
 
 
   - category: 凹凸网址导航
