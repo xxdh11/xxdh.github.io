@@ -1246,25 +1246,25 @@
       style: basic
       url: /go/go.html
       
+    - name: 2048BT
+      style: basic
+      url: /app/num-9.html
+      
     - name: BT目录
       style: basic
       url: /app/num-1.html
       
-    - name: 2048BT
+    - name: SWAG合集
       style: basic
-      url: /app/num-9.html
-
-    - name: 泡芙
-      style: basic
-      url: /app/num-2.html
+      url: /app/num-6.html
       
     - name: 草榴
       style: basic
       url: /app/num-3.html
-      
-    - name: SWAG合集
+
+    - name: 泡芙
       style: basic
-      url: /app/num-6.html
+      url: /app/num-2.html
       
     - name: 爱威奶
       style: basic
@@ -1273,10 +1273,6 @@
     - name: Health²
       style: basic
       url: /guanggao/num-22.html
-      
-    - name: 来撩
-      style: basic
-      url: /app/num-5.html
       
       
 
