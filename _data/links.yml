@@ -321,10 +321,10 @@
       style: basic
       url: /guanggao/num-81.html
 
-    - name: 00呦呦
+    - name: 免费大秀直播
       icon: cuttlefish pink
       style: basic
-      url: /guanggao/num-35.html
+      url: /guanggao/num-11.html
 
     - name: 果聊视频
       style: basic
@@ -337,10 +337,20 @@
     - name: ❤️精品呦呦萝莉
       style: basic
       url: /guanggao/num-84.html
+      
+    - name: 00呦呦
+      icon: gripfire blue
+      style: basic
+      url: /guanggao/num-35.html
 
     - name: 麻豆映画
       style: basic
       url: /shipin/num-12.html
+      
+    - name: 呦呦萝莉人兽
+      icon: vuejs green
+      style: basic
+      url: /guanggao/num-13.html
 
     - name: Dopa视频
       style: basic
