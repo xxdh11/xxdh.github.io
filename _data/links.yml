@@ -237,10 +237,6 @@
       style: teal
       url: /guanggao/num-95.html
       
-    - name: 女神不雅视频
-      style: teal
-      url: /guanggao/num-11.html
-      
     - name: 印度伟哥性药
       style: teal
       url: /guanggao/num-20.html
@@ -771,6 +767,10 @@
     - name: 香蕉计划
       style: basic
       url: /shipin/num-79.html
+      
+    - name: 女神不雅视频
+      style: basic
+      url: /guanggao/num-11.html
 
 
   - category: 凹凸网址导航
