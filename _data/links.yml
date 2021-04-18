@@ -474,10 +474,6 @@
     - name: 天美视频
       style: basic
       url: /shipin/num-81.html
-
-    - name: NAIKILI
-      style: basic
-      url: /shipin/num-37.html
       
     - name: 淘JJ
       style: basic
@@ -759,6 +755,10 @@
     - name: 91在线
       style: basic
       url: /shipin/num-77.html
+
+    - name: NAIKILI
+      style: basic
+      url: /shipin/num-37.html
       
     - name: 深夜保健室
       style: basic
