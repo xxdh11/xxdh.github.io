@@ -395,6 +395,10 @@
       style: basic
       url: /shipin/num-3.html
 
+    - name: 哥哥太满了
+      style: basic
+      url: /shipin/num-89.html
+
     - name: 番号鸽
       style: basic
       url: /shipin/num-93.html
@@ -414,10 +418,6 @@
     - name: 工号666
       style: basic
       url: /shipin/num-102.html
-
-    - name: 哥哥太满了
-      style: basic
-      url: /shipin/num-89.html
 
     - name: ddder
       style: basic
