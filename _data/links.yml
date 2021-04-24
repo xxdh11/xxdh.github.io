@@ -390,6 +390,10 @@
     - name: 抖阴视频
       style: basic
       url: /shipin/num-3.html
+
+    - name: 番号鸽
+      style: basic
+      url: /shipin/num-93.html
       
     - name: 第一福利
       style: basic
@@ -446,10 +450,6 @@
     - name: 91影库
       style: basic
       url: /shipin/num-22.html
-
-    - name: 番号鸽
-      style: basic
-      url: /shipin/num-93.html
 
     - name: 优B库
       style: basic
