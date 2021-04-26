@@ -10,7 +10,7 @@
 
 - name: APP下载
   icon: arrow circle down
-  url: https://www.xfb91.com
+  url: http://www.25zsyy.com/
   active_key: home
 
 - name: 收录&合作
@@ -20,5 +20,5 @@
 
 - name: 地址发布
   icon: location arrow
-  url: https://about.me/ixxdh
+  url: https://github.com/pgfldh/-X-
   active_key: home
