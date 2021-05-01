@@ -406,6 +406,10 @@
     - name: 哥哥太满了
       style: basic
       url: /shipin/num-89.html
+      
+    - name: 爱看高清
+      style: basic
+      url: /shipin/num-94.html
 
     - name: 啪啪熊
       style: basic
@@ -579,10 +583,6 @@
     - name: 17LU
       style: basic
       url: /shipin/num-111.html
-      
-    - name: 爱看高清
-      style: basic
-      url: /shipin/num-94.html
       
     - name: 成人世界
       style: basic
