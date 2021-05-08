@@ -1113,6 +1113,11 @@
       style: basic
       url: /daohang/num-75.html
 
+    - name: 水帘洞
+      icon: dochub red
+      style: basic
+      url: /daohang/num-50.html
+
     - name: 大香蕉
       style: basic
       url: /daohang/num-47.html
