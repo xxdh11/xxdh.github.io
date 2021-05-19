@@ -1135,10 +1135,6 @@
     - name: 大香蕉
       style: basic
       url: /daohang/num-47.html
-
-    - name: 土豆导航
-      style: basic
-      url: /daohang/num-70.html
       
     - name: 兔子导航
       style: basic
@@ -1283,6 +1279,10 @@
     - name: 公主导航
       style: basic
       url: /daohang/num-49.html
+
+    - name: 土豆导航
+      style: basic
+      url: /daohang/num-70.html
       
 - section: THREE
   categories:
