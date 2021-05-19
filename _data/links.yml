@@ -1131,10 +1131,6 @@
       icon: dochub red
       style: basic
       url: /daohang/num-50.html
-
-    - name: 大香蕉
-      style: basic
-      url: /daohang/num-47.html
       
     - name: 兔子导航
       style: basic
@@ -1279,6 +1275,14 @@
     - name: 公主导航
       style: basic
       url: /daohang/num-49.html
+
+    - name: 日了狗
+      style: basic
+      url: /daohang/num-58.html
+
+    - name: 大香蕉
+      style: basic
+      url: /daohang/num-47.html
 
     - name: 土豆导航
       style: basic
