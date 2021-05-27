@@ -375,6 +375,11 @@
       style: basic
       url: /guanggao/num-43.html
 
+    - name: 00呦呦
+      icon: cuttlefish pink
+      style: basic
+      url: /guanggao/num-35.html
+
     - name: 镇江门事件
       icon: google plus green
       style: basic
@@ -404,11 +409,6 @@
       icon: blogger b purple
       style: basic
       url: /guanggao/num-81.html
-
-    - name: 00呦呦
-      icon: cuttlefish pink
-      style: basic
-      url: /guanggao/num-35.html
 
     - name: 果聊视频
       style: basic
