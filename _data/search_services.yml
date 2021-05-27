@@ -5,18 +5,25 @@
   icon: cuttlefish purple
   style: black
 
-- id: guoliao
+- id: swag
   name: SWAG合集
   url: https://ririri.pw/?a=1&t=xxdh&remark=
   shortcut: SWAG合集
   icon: uniregistry red
   style: black
 
-- id: app
-  name: 大秀
-  url: https://appfuli.cc/?adref=
-  shortcut: 免费大秀直播
+- id: taose
+  name: 杨幂迷奸
+  url: https://tsorjt.xyz?ch=xxdh22&remark=
+  shortcut: 杨幂迷奸
   icon: amilia red
+  style: black
+
+- id: madou
+  name: 麻豆
+  url: https://mdsqd03.com/?dc=dxza0042&remark=
+  shortcut: 麻豆
+  icon: product hunt pink
   style: black
 
 - id: paofu
@@ -64,17 +71,4 @@
   name: 豆瓣
   url: https://www.douban.com/search?q=
   shortcut: 豆瓣
-  style: black
-
-- id: jd
-  name: 京东
-  url: http://search.jd.com/Search?keyword=
-  suffix: "&enc=utf-8"
-  shortcut: 京东
-  style: black
-
-- id: taobao
-  name: 淘宝
-  url: https://s.taobao.com/search?q=
-  shortcut: 淘宝
   style: black
