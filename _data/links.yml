@@ -371,12 +371,12 @@
   - category: 宅男的天堂
     links:
     - name: N号房
-      icon: film red
+      icon: heart red
       style: basic
       url: /guanggao/num-43.html
 
     - name: 00呦呦
-      icon: cuttlefish pink
+      icon: magnet pink
       style: basic
       url: /guanggao/num-35.html
 
