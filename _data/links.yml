@@ -1380,6 +1380,14 @@
       
   - category: 激情小说
     links:
+    - name: 夜色小说
+      style: basic
+      url: /xiaoshuo/num-1.html
+
+    - name: 风流小说
+      style: basic
+      url: /xiaoshuo/num-2.html
+
     - name: 高肉小说
       style: basic
       url: /xiaoshuo/num-19.html
