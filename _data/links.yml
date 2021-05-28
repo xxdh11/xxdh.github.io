@@ -1384,38 +1384,6 @@
       style: basic
       url: /xiaoshuo/num-7.html
 
-    - name: 藏书阁
-      style: basic 
-      url: /xiaoshuo/num-13.html
-      
-    - name: 壹色网
-      style: basic 
-      url: /xiaoshuo/num-16.html
-
-    - name: 唯美小说
-      style: basic
-      url: /xiaoshuo/num-10.html
-
-    - name: 肉文吧
-      style: basic
-      url: /xiaoshuo/num-15.html
-
-    - name: 藏精阁
-      style: basic
-      url: /xiaoshuo/num-20.html
-
-    - name: 淫荡文学
-      style: basic
-      url: /xiaoshuo/num-21.html
-
-    - name: 色阅阁
-      style: basic
-      url: /xiaoshuo/num-12.html
-
-    - name: 离夏小说
-      style: basic
-      url: /xiaoshuo/num-9.html
-
     - name: 肉文小说
       style: basic
       url: /xiaoshuo/num-22.html
