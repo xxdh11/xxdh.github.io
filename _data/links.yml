@@ -1380,21 +1380,9 @@
       
   - category: 激情小说
     links:
-    - name: 锁狼书屋
-      style: basic
-      url: /xiaoshuo/num-7.html
-
     - name: 肉文小说
       style: basic
       url: /xiaoshuo/num-22.html
-      
-    - name: 大萝卜
-      style: basic
-      url: /xiaoshuo/num-11.html
-      
-    - name: 夜色小说
-      style: basic
-      url: /xiaoshuo/num-1.html
       
     - name: 爱爱书吧
       style: basic
