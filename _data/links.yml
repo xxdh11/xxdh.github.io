@@ -1328,7 +1328,11 @@
       
     - name: 风火轮
       style: basic
-      url: /daohang/num-62.html      
+      url: /daohang/num-62.html  
+
+    - name: 贝贝导航
+      style: basic
+      url: /daohang/num-65.html      
            
 - section: THREE
   categories:
