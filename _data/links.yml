@@ -1163,7 +1163,11 @@
 
     - name: 贝贝导航
       style: basic
-      url: /daohang/num-65.html      
+      url: /daohang/num-65.html    
+
+    - name: 古云导航
+      style: basic
+      url: /daohang/num-2.html  
            
 - section: THREE
   categories:
