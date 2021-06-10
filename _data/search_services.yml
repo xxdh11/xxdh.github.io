@@ -59,9 +59,3 @@
   url: https://www.zhihu.com/search?q=
   shortcut: 知乎
   style: black
-
-- id: douban
-  name: 豆瓣
-  url: https://www.douban.com/search?q=
-  shortcut: 豆瓣
-  style: black
