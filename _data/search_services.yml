@@ -5,13 +5,6 @@
   icon: cuttlefish purple
   style: black
 
-- id: swag
-  name: SWAG合集
-  url: https://ririri.pw/?a=1&t=xxdh&remark=
-  shortcut: SWAG合集
-  icon: uniregistry red
-  style: black
-
 - id: taose
   name: 杨幂迷奸
   url: https://tsorjt.xyz?ch=xxdh22&remark=
@@ -23,6 +16,13 @@
   name: 葫芦娃
   url: https://mdqd05.com/?dc=xza00151&remark=
   shortcut: 葫芦娃
+  icon: medium m yellow
+  style: black
+
+- id: selifan
+  name: 涩里番
+  url: https://s.slf511.com?_c=caode88&remark=
+  shortcut: 成人视频动漫
   icon: medium m yellow
   style: black
 
