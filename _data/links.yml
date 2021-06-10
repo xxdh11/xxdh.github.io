@@ -1314,7 +1314,7 @@
     - name: 高清秒播
       icon: play yellow
       style: basic
-      url: /go/go.html
+      url: /app/num-5.html
       
     - name: 2048BT
       style: basic
@@ -1327,10 +1327,6 @@
     - name: SWAG合集
       style: basic
       url: /app/num-6.html
-      
-    - name: 麻豆
-      style: basic
-      url: /app/num-5.html
       
     - name: 草榴
       style: basic
