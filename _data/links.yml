@@ -81,6 +81,10 @@
     - name: 萝莉福利姬
       style: basic
       url: /guanggao/num-66.html
+      
+    - name: 萝莉嗷嗷叫
+      style: basic
+      url: /guanggao/num-79.html
 
 - section: TWO
   categories:
