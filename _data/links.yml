@@ -93,6 +93,10 @@
     - name: 萝莉嗷嗷叫
       style: basic
       url: /guanggao/num-79.html
+      
+    - name: 十三金钗
+      style: basic
+      url: /guanggao/num-127.html
 
 - section: TWO
   categories:
