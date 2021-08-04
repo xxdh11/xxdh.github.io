@@ -639,11 +639,6 @@
       style: basic
       url: /shipin/num-97.html
 
-    - name: 火山小黄人
-      icon: hotjar red
-      style: basic
-      url: /shipin/num-90.html
-
     - name: 春水阁
       style: basic
       url: /shipin/num-71.html
@@ -827,6 +822,11 @@
     - name: 灯草视频
       style: basic
       url: /shipin/num-50.html
+
+    - name: 火山小黄人
+      icon: hotjar red
+      style: basic
+      url: /shipin/num-90.html
       
     - name: 巴拉拉
       style: basic
