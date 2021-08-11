@@ -234,10 +234,6 @@
       style: basic
       url: /guanggao/num-80.html
     
-    - name: 明星全集诱惑
-      style: basic
-      url: /guanggao/num-105.html
-    
     - name: 夜色视频
       style: basic
       url: /guanggao/num-131.html
@@ -245,6 +241,10 @@
     - name: 全国约炮
       style: basic
       url: /guanggao/num-133.html
+    
+    - name: 明星全集诱惑
+      style: basic
+      url: /guanggao/num-105.html
 
     - name: 泡芙破解版
       style: basic
@@ -573,7 +573,7 @@
 
     - name: 桃花堂
       style: basic
-      url: /shipin/num-116.html
+      url: /shipin/num-116.html 
 
     - name: 洋马视频
       style: basic
