@@ -862,10 +862,18 @@
       style: basic
       url: /shipin/num-133.html
 
+    - name: 辣妹社
+      style: basic
+      url: /shipin/num-135.html
+
     - name: 火山小黄人
       icon: hotjar red
       style: basic
       url: /shipin/num-90.html
+      
+    - name: 日本女优
+      style: basic
+      url: /shipin/num-28.html
       
     - name: 巴拉拉
       style: basic
