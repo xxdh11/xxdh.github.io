@@ -842,10 +842,6 @@
       style: basic
       url: /shipin/num-130.html
 
-    - name: 快播AV
-      style: basic
-      url: /shipin/num-133.html
-
     - name: 辣妹社
       style: basic
       url: /shipin/num-135.html
@@ -942,6 +938,10 @@
     - name: 第一福利
       style: basic
       url: /shipin/num-105.html
+
+    - name: 快播AV
+      style: basic
+      url: /shipin/num-133.html
       
     - name: 皇家华人
       style: basic
