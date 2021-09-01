@@ -458,13 +458,17 @@
       style: basic
       url: /guanggao/num-102.html
 
-    - name: 欲望城市
+    - name: 幺力视频
       style: basic
-      url: /shipin/num-13.html
+      url: /shipin/num-1.html
 
     - name: 范艺起传媒
       style: basic
       url: /shipin/num-140.html
+
+    - name: 欲望城市
+      style: basic
+      url: /shipin/num-13.html
 
     - name: 小丑撸
       style: basic
