@@ -462,13 +462,13 @@
       style: basic
       url: /shipin/num-13.html
 
+    - name: 范艺起传媒
+      style: basic
+      url: /shipin/num-140.html
+
     - name: 小丑撸
       style: basic
       url: /shipin/num-7.html
-      
-    - name: 第一福利
-      style: basic
-      url: /shipin/num-105.html
       
     - name: 7M视频
       style: basic
@@ -931,10 +931,6 @@
       style: basic
       url: /shipin/num-23.html
 
-    - name: 范艺起传媒
-      style: basic
-      url: /shipin/num-140.html
-
     - name: 深夜保健室
       style: basic
       url: /shipin/num-138.html
@@ -946,6 +942,10 @@
     - name: CCAV17
       style: basic
       url: /shipin/num-28.html
+      
+    - name: 第一福利
+      style: basic
+      url: /shipin/num-105.html
 
     - name: 肉铺
       style: basic
