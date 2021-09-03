@@ -605,11 +605,15 @@
     - name: 超级片社区
       style: basic
       url: /shipin/num-26.html
+      
+    - name: 第一福利
+      style: basic
+      url: /shipin/num-105.html
 
     - name: 金瓶梅
       style: basic
-      url: /shipin/num-168.html
-      
+      url: /shipin/num-142.html
+
     - name: 宅男社
       style: basic
       url: /shipin/num-154.html
@@ -922,10 +926,6 @@
     - name: CCAV17
       style: basic
       url: /shipin/num-28.html
-      
-    - name: 第一福利
-      style: basic
-      url: /shipin/num-105.html
 
     - name: 快播AV
       style: basic
