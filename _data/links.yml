@@ -1030,6 +1030,10 @@
       icon: gitkraken teal
       style: basic
       url: /daohang/num-23.html
+      
+    - name: 宝马导航
+      style: basic
+      url: /daohang/num-72.html
 
     - name: 红灯区
       style: basic
@@ -1089,10 +1093,6 @@
     - name: 千姬精品
       style: basic
       url: /daohang/num-125.html
-      
-    - name: 小表妹
-      style: basic
-      url: /daohang/num-69.html
 
     - name: 大姐姐
       style: basic
@@ -1224,10 +1224,6 @@
       style: basic
       url: /daohang/num-94.html
       
-    - name: 宝马导航
-      style: basic
-      url: /daohang/num-72.html
-      
     - name: 魅惑导航
       style: basic
       url: /daohang/num-154.html
@@ -1279,6 +1275,10 @@
     - name: 夜来香
       style: basic
       url: /daohang/num-32.html
+      
+    - name: 小表妹
+      style: basic
+      url: /daohang/num-69.html
 
       
 - section: THREE
