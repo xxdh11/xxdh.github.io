@@ -441,6 +441,10 @@
     - name: 幺力视频
       style: basic
       url: /shipin/num-1.html
+      
+    - name: 九色视频
+      style: basic
+      url: /shipin/num-146.html
 
     - name: 范艺起传媒
       style: basic
@@ -577,10 +581,6 @@
     - name: 美色部落
       style: basic
       url: /shipin/num-125.html
-      
-    - name: 九色视频
-      style: basic
-      url: /shipin/num-178.html
       
     - name: 不良少女
       style: basic
