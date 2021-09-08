@@ -529,6 +529,10 @@
     - name: 啪啦啪啦
       style: basic
       url: /shipin/num-113.html
+      
+    - name: 日到爽哦
+      style: basic
+      url: /shipin/num-93.html
 
     - name: ddder
       style: basic
@@ -918,10 +922,6 @@
     - name: 一风堂
       style: basic
       url: /shipin/num-23.html
-      
-    - name: 日到爽哦
-      style: basic
-      url: /shipin/num-93.html
 
     - name: 肉铺
       style: basic
@@ -1139,10 +1139,6 @@
       style: basic
       url: /daohang/num-15.html
 
-    - name: 大白兔
-      style: basic
-      url: /daohang/num-20.html 
-
     - name: 怡春院
       style: basic
       url: /daohang/num-33.html
@@ -1272,9 +1268,13 @@
       style: basic
       url: /daohang/num-31.html
 
-    - name: 大白兔
+    - name: SM导航
       style: basic
       url: /daohang/num-34.html
+
+    - name: 大白兔
+      style: basic
+      url: /daohang/num-20.html
 
     - name: 夜来香
       style: basic
