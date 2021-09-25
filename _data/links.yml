@@ -943,6 +943,10 @@
       style: basic
       url: /shipin/num-64.html
 
+    - name: 姬芭时代
+      style: basic
+      url: /shipin/num-157.html
+
     - name: 床吧
       style: basic
       url: /shipin/num-143.html
@@ -1166,11 +1170,7 @@
 
     - name: 小辣椒
       style: basic
-      url: /daohang/num-71.html
-      
-    - name: 有爱导航
-      style: basic
-      url: /daohang/num-8.html    
+      url: /daohang/num-71.html 
       
     - name: 云良阁导航
       style: basic
