@@ -1096,10 +1096,6 @@
     - name: 羞羞导航
       style: basic
       url: /daohang/num-14.html
-
-    - name: 性巴克
-      style: basic
-      url: /daohang/num-110.html
       
     - name: 巅峰导航
       style: basic
@@ -1272,11 +1268,11 @@
       style: basic
       url: /daohang/num-2.html 
 
-    - name: 枫无痕导航
+    - name: 枫无痕
       style: basic
       url: /daohang/num-4.html   
 
-    - name: 草一色导航
+    - name: 草一色
       style: basic
       url: /daohang/num-5.html
 
