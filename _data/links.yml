@@ -1118,10 +1118,6 @@
       style: basic
       url: /daohang/num-63.html
 
-    - name: 芭提雅
-      style: basic
-      url: /daohang/num-41.html
-
     - name: 玖狐狸
       style: basic
       url: /daohang/num-73.html
@@ -1287,6 +1283,10 @@
     - name: 小表妹
       style: basic
       url: /daohang/num-69.html
+
+    - name: 芭提雅
+      style: basic
+      url: /daohang/num-41.html
       
     - name: 巅峰导航
       style: basic
