@@ -1097,10 +1097,6 @@
       style: basic
       url: /daohang/num-14.html
       
-    - name: 巅峰导航
-      style: basic
-      url: /daohang/num-136.html
-      
     - name: 乱片导航
       icon: centercode purple
       style: basic
@@ -1295,6 +1291,10 @@
     - name: 小表妹
       style: basic
       url: /daohang/num-69.html
+      
+    - name: 巅峰导航
+      style: basic
+      url: /daohang/num-136.html
 
       
 - section: THREE
