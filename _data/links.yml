@@ -386,17 +386,17 @@
   categories:
   - category: 宅男的天堂
     links:
-    - name: N号房
-      icon: heart red
-      style: basic
-      url: /guanggao/num-43.html
-
     - name: 00呦呦
       icon: magnet pink
       style: basic
+      url: /guanggao/num-43.html
+
+    - name: 水多多
+      icon: heart red
+      style: basic
       url: /guanggao/num-35.html
 
-    - name: 镇江门事件
+    - name: 门事件
       icon: maxcdn green
       style: basic
       url: /guanggao/num-47.html
