@@ -1283,6 +1283,10 @@
     - name: 巅峰导航
       style: basic
       url: /daohang/num-136.html
+      
+    - name: 藏宝图
+      style: basic
+      url: /daohang/num-8.html
 
       
 - section: THREE
