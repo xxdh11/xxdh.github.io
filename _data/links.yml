@@ -1192,10 +1192,6 @@
       style: basic
       url: /daohang/num-87.html
       
-    - name: 哈伦导航
-      style: basic
-      url: /daohang/num-117.html
-      
     - name: 魔视导航
       style: basic
       url: /daohang/num-121.html
@@ -1287,6 +1283,10 @@
     - name: 藏宝图
       style: basic
       url: /daohang/num-8.html
+      
+    - name: 哈伦导航
+      style: basic
+      url: /daohang/num-117.html
 
       
 - section: THREE
