@@ -851,6 +851,10 @@
       style: basic
       url: /shipin/num-163.html
 
+    - name: 拨阴员
+      style: basic
+      url: /shipin/num-41.html
+
     - name: 肉铺
       style: basic
       url: /shipin/num-136.html
@@ -858,6 +862,10 @@
     - name: 红会所
       style: basic
       url: /shipin/num-9.html
+
+    - name: 叫兽
+      style: basic
+      url: /shipin/num-34.html
 
     - name: 搬淫工
       style: basic
