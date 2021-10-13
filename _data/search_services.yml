@@ -5,6 +5,13 @@
   icon: cuttlefish green
   style: black
 
+- id: paofu
+  name: 葫芦娃
+  url: http://pp2.88woaihuluwa14.work/?a=xxl8s9&remark=
+  shortcut: 葫芦娃视频
+  icon: product hunt pink
+  style: black
+
 - id: bilibili
   name: 逼哩逼哩
   url: https://blqd02.com/?dc=bxzt3&remark=
@@ -17,13 +24,6 @@
   url: https://mdsqd06.com/?dc=dxza0052&remark=
   shortcut: 麻豆
   icon: medium m blue
-  style: black
-
-- id: paofu
-  name: 泡芙
-  url: https://fxpfldy.com/?dc=XXFLDH&remark=
-  shortcut: 泡芙
-  icon: product hunt pink
   style: black
 
 - id: baidumap
