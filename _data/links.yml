@@ -400,6 +400,11 @@
       style: basic
       url: /guanggao/num-35.html
 
+    - name: 茶馆—品茶
+      icon: hotjar blue
+      style: basic
+      url: /guanggao/num-66.html
+
     - name: 门事件
       icon: maxcdn green
       style: basic
