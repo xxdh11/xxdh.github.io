@@ -1,8 +1,16 @@
+
 - id: caoliu
   name: 草榴
   url: https://spkgbx.xyz?ch=xxdh22&remark=
   shortcut: 草榴
   icon: cuttlefish green
+  style: black
+
+- id: daxiang
+  name: 粉红大象
+  url: https://dxtv88.com?_c=dxfb1112&remark=
+  shortcut: 大象
+  icon: cuttlefish pink
   style: black
 
 - id: bilibili
