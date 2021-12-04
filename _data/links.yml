@@ -1073,28 +1073,28 @@
       icon: medium m red
       style: basic
       url: /daohang/num-112.html
-
-    - name: 藏姬阁
-      icon: twitter purple
-      style: basic
-      url: /daohang/num-17.html
       
     - name: 不良研究所
       style: basic
       url: /daohang/num-18.html
 
+    - name: 藏姬阁
+      icon: twitter purple
+      style: basic
+      url: /daohang/num-17.html
+
     - name: 秘密通道
       style: basic
       url: /daohang/num-12.html
-
-    - name: 沉浮收录
-      style: basic
-      url: /daohang/num-38.html
 
     - name: 小黄鸭
       icon: hire a helper yellow
       style: basic
       url: /daohang/num-36.html
+
+    - name: 沉浮收录
+      style: basic
+      url: /daohang/num-38.html
 
     - name: 银色导航
       style: basic
