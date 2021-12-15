@@ -241,6 +241,10 @@
 
   - category: 推荐②区
     links:
+    - name: 稀缺资源
+      style: basic
+      url: /guanggao/num-66.html
+
     - name: 成人APP大全
       style: basic
       url: /guanggao/num-28.html
