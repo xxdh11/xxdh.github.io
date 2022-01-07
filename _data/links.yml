@@ -129,6 +129,10 @@
     - name: 色漫免费看
       style: basic
       url: /guanggao/num-128.html
+      
+    - name: 稀缺精品黑料
+      style: basic
+      url: /guanggao/num-142.html
 
 - section: TWO
   categories:
