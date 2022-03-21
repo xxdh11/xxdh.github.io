@@ -1156,6 +1156,10 @@
       style: basic
       url: /daohang/num-37.html
 
+    - name: 丫丫导航
+      style: basic
+      url: /daohang/num-24.html
+
     - name: 超级入口
       style: basic
       url: /daohang/num-67.html
@@ -1168,14 +1172,14 @@
       icon: glide g pink
       style: basic
       url: /daohang/num-29.html
-
-    - name: 丫丫导航
-      style: basic
-      url: /daohang/num-24.html
       
     - name: 多多导航
       style: basic
       url: /daohang/num-13.html
+      
+    - name: 西施导航
+      style: basic
+      url: /daohang/num-68.html
       
     - name: 皮皮虾
       icon: pied piper pp pink
