@@ -1,48 +1,47 @@
+- id: UU
+  name: 呦呦视频
+  url: http://tutu2.pw?tj=xxdh3&remark={query}
+  shortcut:
+    icon: paw blue inverted
+    style: black
+    show: true
 
-- id: caoliu
-  name: 草榴
-  url: https://spkgbx.xyz?ch=xxdh22&remark=
-  shortcut: 草榴
-  icon: cuttlefish green icon
-  style: black
-
-- id: daxiang
-  name: 粉红大象
-  url: https://dxtv88.com?_c=dxfb1112&remark=
-  shortcut: 大象
-  icon: hotjar pink icon
-  style: black
+- id: xfb
+  name: 性福宝
+  url: https://www.xfb94.com?{query}
+  shortcut:
+    icon: google red inverted
+    style: black
+    show: true
 
 - id: bilibili
   name: 逼哩逼哩
-  url: https://blqd02.com/?dc=bxzt3&remark=
-  shortcut: 逼哩逼哩
-  icon: vimeo v yellow icon
-  style: black
+  url: https://d4pn7v.com/?dc=bxza40&remark=
+  shortcut:
+    icon: vimeo v yellow inverted
+    style: black
+    show: true
 
 - id: madou
-  name: 麻豆
-  url: https://mdsqd06.com/?dc=dxza0052&remark=
-  shortcut: 麻豆
-  icon: medium m blue icon
-  style: black
+  name: 麻豆视频
+  url: https://33t7rb.com/?dc=xza0015101&remark={query}
+  shortcut:
+    icon: medium m blue inverted
+    style: black
+    show: true
 
-- id: baidumap
-  name: 百度地图
-  url: https://api.map.baidu.com/geocoder?address=
-  suffix: "&output=html"
-  shortcut: 地图
-  icon: map green inverted icon
-  style: black
+- id: baidu
+  name: 百度
+  url: https://baidu.com/s?ie=utf-8&wd={query}
+  shortcut:
+    icon: paw blue inverted
+    style: black
+    show: true
 
-- id: weibo
-  name: 微博
-  url: https://s.weibo.com/weibo/
-  shortcut: 微博
-  style: black
-  
-- id: zhihu
-  name: 知乎
-  url: https://www.zhihu.com/search?q=
-  shortcut: 知乎
-  style: black
+- id: google
+  name: 谷歌
+  url: https://google.com/search?q={query}
+  shortcut:
+    icon: google red inverted
+    style: black
+    show: true
