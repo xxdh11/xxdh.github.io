@@ -1,0 +1,17 @@
+message:
+  show: true
+  hitokoto: false
+  content: Ctrl+D快速收藏本站，地址随时可能失效，请记住本站永久域名：HTTPS://Www.XXFLDH.Com
+  detail: More
+  color: black
+  icon: smile
+  image: false
+  link: false
+
+advertisement:
+  show: false
+  content: 广告
+  detail: 广告详细
+  color: black
+  icon: university
+  link: https://xxx.com

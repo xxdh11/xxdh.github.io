@@ -3,28 +3,28 @@
   name: 草榴
   url: https://spkgbx.xyz?ch=xxdh22&remark=
   shortcut: 草榴
-  icon: cuttlefish green
+  icon: cuttlefish green icon
   style: black
 
 - id: daxiang
   name: 粉红大象
   url: https://dxtv88.com?_c=dxfb1112&remark=
   shortcut: 大象
-  icon: hotjar pink
+  icon: hotjar pink icon
   style: black
 
 - id: bilibili
   name: 逼哩逼哩
   url: https://blqd02.com/?dc=bxzt3&remark=
   shortcut: 逼哩逼哩
-  icon: vimeo v yellow
+  icon: vimeo v yellow icon
   style: black
 
 - id: madou
   name: 麻豆
   url: https://mdsqd06.com/?dc=dxza0052&remark=
   shortcut: 麻豆
-  icon: medium m blue
+  icon: medium m blue icon
   style: black
 
 - id: baidumap
@@ -32,7 +32,7 @@
   url: https://api.map.baidu.com/geocoder?address=
   suffix: "&output=html"
   shortcut: 地图
-  icon: map green inverted
+  icon: map green inverted icon
   style: black
 
 - id: weibo
