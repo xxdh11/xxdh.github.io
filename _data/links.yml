@@ -584,7 +584,7 @@
       
     - name: 工号666
       style: basic
-      url: /shipin/num-102.html
+      url: /shipin/num-9.html
       
     - name: 女生宿舍
       style: basic
@@ -823,10 +823,6 @@
       style: basic
       url: /shipin/num-150.html
 
-    - name: 淫淫网
-      style: basic
-      url: /shipin/num-150.html
-
     - name: 狼窝
       style: basic
       url: /shipin/num-18.html
@@ -838,10 +834,6 @@
     - name: 骑术
       style: basic
       url: /shipin/num-57.html
-
-    - name: 看片区
-      style: basic
-      url: /shipin/num-144.html
 
     - name: 撸出血
       style: basic
@@ -1118,18 +1110,6 @@
       style: basic
       url: /daohang/num-19.html
       
-    - name: 公主导航
-      style: basic
-      url: /daohang/num-49.html
-      
-    - name: 日了狗
-      style: basic
-      url: /daohang/num-53.html 
-      
-    - name: 色狼导航
-      style: basic
-      url: /daohang/num-54.html
-      
     - name: 风火轮
       style: basic
       url: /daohang/num-62.html  
@@ -1173,10 +1153,6 @@
     - name: 百色风车
       style: basic
       url: /daohang/num-57.html
-      
-    - name: 野猫导航
-      style: basic
-      url: /daohang/num-94.html
       
     - name: 哈伦导航
       style: basic
