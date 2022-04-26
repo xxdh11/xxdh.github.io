@@ -50,10 +50,6 @@
       style: basic
       url: /guanggao/num-32.html
       
-    - name: 萝莉番视频
-      style: basic
-      url: /guanggao/num-5.html
-      
     - name: 萝莉嗷嗷叫
       style: basic
       url: /guanggao/num-79.html
@@ -397,10 +393,10 @@
       style: basic
       url: /guanggao/num-85.html
 
-    - name: 洛璃APP汇总
+    - name: 萝莉番视频
       icon: stripe s yellow
       style: basic
-      url: /guanggao/num-127.html
+      url: /guanggao/num-5.html
 
     - name: 稀缺❤️精品
       style: basic
