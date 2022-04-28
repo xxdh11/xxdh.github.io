@@ -525,18 +525,6 @@
     - name: 工号666
       style: basic
       url: /shipin/num-9.html
-      
-    - name: 女生宿舍
-      style: basic
-      url: /shipin/num-176.html
-      
-    - name: AV密码
-      style: basic
-      url: /shipin/num-177.html
-      
-    - name: 91少女
-      style: basic
-      url: /shipin/num-178.html
 
     - name: 少妇茶馆
       style: basic
@@ -901,11 +889,6 @@
     - name: 不良研究所
       style: basic
       url: /daohang/num-18.html
-      
-    - name: 口袋福利
-      icon: dochub orange
-      style: basic
-      url: /daohang/num-64.html
 
     - name: 秘密通道
       style: basic
@@ -939,10 +922,6 @@
     - name: 丫丫导航
       style: basic
       url: /daohang/num-24.html
-
-    - name: 超级入口
-      style: basic
-      url: /daohang/num-67.html
 
     - name: KK导航
       style: basic
