@@ -201,6 +201,10 @@
     - name: 九度视频
       style: basic
       url: /guanggao/num-84.html
+    
+    - name: 青树视频
+      style: basic
+      url: /guanggao/num-99.html
 
     - name: 泡芙破解版
       style: basic
