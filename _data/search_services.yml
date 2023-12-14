@@ -1,32 +1,8 @@
-- id: UU
-  name: 呦呦视频
-  url: https://www.27sex.cc/?ref=2175&remark={query}
+- id: hlw
+  name: 葫芦娃
+  url: https://hlw019.life/?a=ixk0nc&remark={query}
   shortcut:
     icon: paw blue inverted
-    style: black
-    show: true
-
-- id: xfb
-  name: 性福宝
-  url: https://www.a5b7.com?{query}
-  shortcut:
-    icon: google red inverted
-    style: black
-    show: true
-
-- id: bilibili
-  name: 逼哩逼哩
-  url: https://y39lqwo.com/?dc=bxza4001&remark=
-  shortcut:
-    icon: vimeo v yellow inverted
-    style: black
-    show: true
-
-- id: madou
-  name: 麻豆视频
-  url: https://ybqkqbf.com/?dc=xza0015101&remark={query}
-  shortcut:
-    icon: medium m blue inverted
     style: black
     show: true
 
